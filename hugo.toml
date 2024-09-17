@@ -1,0 +1,37 @@
+baseURL = 'https://bougrolys.github.io/'
+languageCode = 'fr-fr'
+title = 'Le petit manuel de la secrétaire de mairie'
+theme = "hugo-theme-monochrome"
+
+[params]
+footer = "Site maintenu par Bougro Lys" # default: None
+enable_toc = true # default: true
+enable_collapsible_toc = true # default: false
+enable_collapsible_changelogs = false # default: false
+
+[menu]
+
+[[menu.navbar]]
+name = "Vocabulaire"
+identifier = "Vocabulaire"
+url = "/vocabulaire/"
+weight = 1
+
+#[[menu.navbar]]
+#name = "Environnement territorial"
+#identifier = "Environnement territorial"
+#url = "/environnement-territorial/"
+#weight = 20
+
+#[[menu.navbar]]
+#parent = "Environnement territorial"
+#name = "Présentation de l'environnement territorial"
+#identifier = "Présentation de l'environnement territorial"
+#url = "/environnement-territorial/presentation-environnement-territorial"
+#weight = 1
+
+#[[menu.navbar]]
+#name = "contact"
+#identifier = "contact"
+#url = "/contact"
+#weight = 100

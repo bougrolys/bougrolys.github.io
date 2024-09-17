@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Listes des fiches sur l&#39;environnement territorial on Le petit manuel de la secrétaire de mairie</title>
+    <link>http://localhost:1313/environnement-territorial/</link>
+    <description>Recent content in Listes des fiches sur l&#39;environnement territorial on Le petit manuel de la secrétaire de mairie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 27 Aug 2024 07:07:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/environnement-territorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Environnement territorial suite</title>
+      <link>http://localhost:1313/environnement-territorial/environnement-territorial-suite/</link>
+      <pubDate>Wed, 28 Aug 2024 07:07:07 +0100</pubDate>
+      
+      <guid>http://localhost:1313/environnement-territorial/environnement-territorial-suite/</guid>
+      <description> Test suite et </description>
+    </item>
+    
+    <item>
+      <title>Présentation de l&#39;environnement territorial</title>
+      <link>http://localhost:1313/environnement-territorial/presentation-environnement-territorial/</link>
+      <pubDate>Tue, 27 Aug 2024 07:07:07 +0100</pubDate>
+      
+      <guid>http://localhost:1313/environnement-territorial/presentation-environnement-territorial/</guid>
+      <description> Présentation de l&amp;rsquo;environnement territorial Test
+Qu&amp;rsquo;est-ce qu&amp;rsquo;une administration locale ? Une administration locale est constituée d&amp;rsquo;une assemblée délibérante d&amp;rsquo;un organe exécutif qui ont pour la responsabilité de certaines politiques sur un périmètre géographique donné. Chaque administration local a des responsabilités propres.
+Quelles sont les différentes composantes de l&amp;rsquo;environnement territorial ? Les communes Les départements Les régions Les établissements publics locaux </description>
+    </item>
+    
+  </channel>
+</rss>
