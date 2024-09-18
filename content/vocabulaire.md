@@ -28,6 +28,7 @@ toc: false
 | CT | Collectivité Territoriale |
 | DSP | Délégation de service public |
 | EPCI | Établissement public de coopération intercommunal |
+| EPT | Établissements publics territoriaux |
 | GFP | Groupement à fiscalité propre |
 | OPH | Office public de l'habitat |
 | SDEER | Syndicat Département d'Électrification et Équipement Rural |
@@ -54,6 +55,7 @@ toc: false
 | --- | --- |
 | Adjoint | Fonction attribuée lors de l'installation du Conseil Municipal à certains conseillers. Les pouvoirs des adjoints exercés au nom de la commune sont liés à ceux du maire. Ils découlent soit d’une délégation de ce dernier, soit de sa suppléance. Ils sont de droit officiers de police judiciaire.|
 | Arrêté | Décision prise par le Maire en son pouvoir propre. |
+| Commune surclassée | Commune qui en raison de certaines particularités (tourisme, ville termale, etc.) se voit considéré comme une commune d'une population supérieure avec les avantages (dotations, etc.) et devoir liés (DOB/ROB, M57 complète, etc.). |
 | Conseil Municipal | Organe délibérant à l'échelle de la Commune |
 | Considérants | Contrairement aux visas, ils présentent les motifs de droit et de fait qui justifient la décision prise et formalisent la motivation de l’acte. |
 | Décision du Maire | Décision prise par le Maire en raison d'une délégation de compétence du Conseil Municipal. Les compétences pouvant être déléguées au Conseil Municipal sont définies par la loi et sont au nombre de 29. |
@@ -70,14 +72,19 @@ toc: false
 | Abréviation(s) | Nom complet |
 | --- | --- |
 | BP | Budget primitif ou prévisionnel |
+| CA | Compte administratif |
 | CAF | Capacité d'autofinancement |
 | CDIC | Commission des impôts communaux. |
 | CDL | Conseiller aux décideurs locaux |
+| CET | Contribution économique territoriale (regroupe la CFE et la CVAE, et remplace de la TP)
+| CFE | Cotisation foncière des entreprises |
 | CFU | Compte financier unique |
+| CG | Compte de gestion |
 | CGI | Code général des impôts |
 | CLECT | Commission locale d'évaluation des charges transférées |
 | CRC | Chambre régionnale des comptes |
 | CVAE | [Cotisation sur la valeur ajoutée des entreprises](https://www.economie.gouv.fr/entreprises/cotisation-valeur-ajoutee-entreprise-cvae) |
+| DCRTP | Dotation de compensation de la réforme de la taxe professionnelle |
 | DDFIP | Direction départementale des finances publiques |
 | DETR | Dotation d'équipement des territoires ruraux |
 | DGD | Dotation générale de décentralisation |
@@ -87,15 +94,33 @@ toc: false
 | DOB | Débat d'orientation budgétaire |
 | DRF | Dépense réelle de fonctionnement |
 | DRI | Dépense réelle d'investissement |
+| DSIC | Dotation de soutien à l'investissement local |
+| DSR | Dotation de solidarité rurale |
+| DSU | Dotation de solidarité urbaine |
+| DTCE | Dotation pour transfert de compensation d'exonération |
+| DUCSTP | Dotation unique  de compensation sur l'ex taxe professionnelle |
 | FCTVA | [Fonds de compensation pour la taxe sur la valeur ajoutée](https://www.collectivites-locales.gouv.fr/finances-locales/fonds-de-compensation-pour-la-taxe-sur-la-valeur-ajoutee-fctva) |
+| FEU | Fiscalité éolienne unique |
+| FNGIR | Fond national de péréquation rural |
+| FPIL | Fond de péréquation intercommunal |
+| FPU | (taux de) fiscalité professionnelle unique |
+| GVT | Glissement Vieillesse et technicité |
 | ICNE | Intêrets courus non échus |
+| IFER |Imposition forfaitaire sur les entreprises de réseaux |
 | PPI | Plan pluriannuel d'investissement |
+| RAR | Reste à réaliser |
+| RCE | Réduction pour création d'établissement |
+| ROB | Rapport d'orientation budgétaire |
 | SGC | Service de gestion comptable |
 | TA | Taxe d'aménagement |
+| TAFNB | Taxe additionnelle sur le foncier non bâti |
+| TASCOM | Taxe sur les surfaces commerciales |
+| TEOM | Taxe sur l'enlèvement des ordures ménagères |
 | TF | Taxe foncière |
 | TFB | Taxe foncière sur le bâti |
 | TFNB | Taxe foncière sur le non-bâti |
-| Taxe locale d'équipement |
+| THRS | Taxe d'habitation sur les résidences secondaires |
+| TLE | Taxe locale d'équipement |
 | TP | Taxe professionnelle |
 
 ## Vocabulaire
@@ -107,6 +132,8 @@ toc: false
 | Budget annexe | Budget d'un organisme rattaché à une collectivité territoriale mais qui du fait de sa nature est indépendant du budget de la collectivité. |
 | Budget prévisionnel ou primitif | Budget tel que prévu pour l'année N+1. Doit être adopté au plus tard le 15 avril de la même année. |
 | Budget supplémentaire | Acte budgétaire permettant de décrire des opérations nouvelles, non-prévues à l'origine par le budget primitif. |
+| CAF ou épargne brute | Capacité d'autofinancement brute, définit la capacité de financement par la collectivité elle-même en prenant en compte les amortissements et la capacité d'autofinancement nette. |
+| CAF ou épargne nette | Capacité d'autofinancement de la collectivité calculée en fonction des résultats des sections de fonctionnement et d'investissement auxquels on retranche le montant des amortissement. |
 | Chapitre ou compte | Sous-section d'une classe. |
 | Classe (de compte) | Division de base dans la nomenclature budgétaire. Il en existe 8. |
 | Comptable public | Comptable gérant le compte de gestion. Agent de l'État, il engage sa responsabilité personnelle lors de la manipulation des fonds. Il contrôle les actes demandés par l'ordonnateur avant d'effectuer les opérations associées. |
@@ -130,8 +157,10 @@ toc: false
 | Maquette budgétaire | Documents retranscrivant les prévisions et les réalisations budgétaires. |
 | Opération d'ordre | Opération comptable n'entraînant aucun flux financier. |
 | Ordonnateur | Autorité ayant la compétence d'ordonner les dépenses auprès du comptable public. Il s'agit de l'organe exécutif de la collectivité territoriale (Maire, président de la collectivité, etc.). |
+| Péréquation | Reversement d'un EPCI envers ses communes membres défavorisées en raison de la solidarité intercommunale. |
 | Provision | Les provisions correspondent à une opération d'ordre visant à prévoir une dépense exceptionnelle lorsque la collectivité est exposée à un risque avéré (contentieux, recouvrement, garantue d'eprunt).  |
 | P503 | Compte d'attente recevant les recettes avant qu'elles soient ventilées. |
+| Reste à réaliser (RAR) | Lorsqu'au cours d'une année N+1 il reste des crédits d'investissement engagés mais non liquidés, ces opérations deviennent des restes à réaliser. Ces crédits peuvent être engagés à hauteur de 1/4 du budget d'investissement de l'année N avant le vote du BP ou reporté à l'année N+1. |
 | Section | Séparation comptable dans le cadre des finances publiques. Les sections sont au nombre de deux et dépendent de la nature des charges et recettes : fonctionnement et investissement. |
 | Titre (de recette) | Équivalent du mandat pour les recettes de la collectivité. |
 | Ventiler | Fait de réaliser les imputations. |
