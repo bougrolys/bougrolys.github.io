@@ -48,8 +48,6 @@ toc: false
 | --- | --- |
 | CM | Conseil municipal |
 | CTM | Centre technique municipal |
-| PPRI | Plan de prévention des risques naturels d'inondation |
-| PPRN | Plan de prévention des risques naturels |
 
 ## Vocabulaire
 
@@ -266,8 +264,12 @@ toc: false
 | PC | Permis de construire |
 | PLU | Plan local d'urbanisme |
 | PLUi | Plan local d'urbanisme intercommunal |
+| PPRI | Plan de prévention des risques naturels d'inondation |
+| PPRN | Plan de prévention des risques naturels |
 | SCoT | Schéma de cohérence territorial |
 
 ## Vocabulaire
 
+| Nom | Définition |
+| --- | --- |
 | Déclaration d'ouverture | Déclaration à l'ouverture d'un chantier permettant de faire courir certains délais (par exemple passage de 3 ans à 10 ans de délai dans le cadre d'un PC). |
