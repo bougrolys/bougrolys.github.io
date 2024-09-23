@@ -77,7 +77,7 @@ toc: false
 | BP | Budget primitif ou prévisionnel |
 | CA | Compte administratif |
 | CAF | Capacité d'autofinancement |
-| CDIC | Commission des impôts communaux. |
+| CCID | Commission communale des impôts directs |
 | CDL | Conseiller aux décideurs locaux |
 | CET | Contribution économique territoriale (regroupe la CFE et la CVAE, et remplace de la TP)
 | CFE | Cotisation foncière des entreprises |
