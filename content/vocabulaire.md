@@ -8,14 +8,42 @@ toc: false
 
 # Liste des thèmes
 
-- [Collectivités Territoriales](#collectivit%c3%a9s-territoriales)
+- [Cimetière](#cimetière)
+- [Collectivités Territoriales](#collectivités-territoriales)
 - [Conseil municipal et bloc communal](#conseil-municipal-et-bloc-communal)
 - [Finances](#finances)
-- [Général](#g%c3%a9n%c3%a9ral)
+- [Général](#général)
 - [Institutions](#institutions) 
 - [RH](#rh)
-- [Services déconcentrés de l'État](#services-d%c3%a9concentr%c3%a9s-de-l%c3%a9tat)
+- [Services déconcentrés de l'État](#services-déconcentrés-de-létat)
 - [Urbanisme](#urbanisme)
+
+# Cimetière
+
+| Nom | Définition |
+| --- | --- |
+| Caveau | Le caveau est un équipement funéraire destiné à accueillir les restes mortels, la sépulture étant aménagée en sous-sol. Cet équipement est bien souvent surmonté d’un monument funéraire permettant l’identification des défunts ou facilitant le devoir de mémoire. |
+| Caveau dépositoire | Caveau funéraire permettant le dépôt des cercueils, et par extension les urnes, dans l’attente d’une crémation ou d’une inhumation définitive lorsque les travaux sur la sépulture définitive ne sont pas encore achevés, ou quand il y a des problèmes de famille retardant l’inhumation. Celui-ci a des cases au-dessus du niveau du sol. |
+| Caveau provisoire | Caveau funéraire permettant le dépôt des cercueils, et par extension les urnes, dans l’attente d’une crémation ou d’une inhumation définitive lorsque les travaux sur la sépulture définitive ne sont pas encore achevés, ou quand il y a des problèmes de famille retardant l’inhumation. Celui-ci a des cases en-dessous du niveau du sol. |
+| Cavurne | Le cavurne est un caveau enterré spécialement conçu pour être le réceptacle des cendres. |
+| Columbarium | Bâtiment pourvu de niches destinées aux urnes contenant les cendres des personnes crématisées |
+| Concession | Une concession funéraire est un emplacement dans un cimetière (caveau, tombe). Ce peut être aussi un emplacement réservé aux urnes funéraires dans un columbarium. Le contrat signé avec la commune (acte de concession) précise les bénéficiaires et la durée de la concession.  Lorsque la concession arrive à échéance il est du devoir de la commune d'informer par tout moyen les ayants droits de l'existence de leur droit à renouvellement. |
+| Crémation | Appelée parfois à tord incinération, c'est une technique funéraire visant à brûler et à réduire en cendres le corps d'une personne décédée. |
+| Déclarations préalables |
+| Droit à l'inhumation | Droit dû aux personnes décédées sur le territoire de la commune quel que soit leur domicile, aux personnes domiciliée sur la commune même si elle n'y sont pas décédées, aux personnes non domiciliées dans la commune mais qui y ont droit à une sépulture de famille, aux français établis hors de France, aux personnes ayant un fort attachement à la commune. |
+| Espace de dispersion de cendres | Appelé avant "jardin du souvenir", il permet aux familles ayant recueilli les cendres d'y disperser les cendres du défunt. Elles ont aussi le choix de les disséminer dans la nature (hors voie publique et propriété privée), suite à une déclaration à la mairie du lieu de naissance du défunt. |
+| Espace "inter-tombe" | Espace obligatoire permmetant la libre circulation autour des sépultures. Voir "Servitude de passage sur le domaine public funéraire". |
+| Fosse ou "pleine terre" ou "franche terre"| La fosse est la cavité creusée dans le sol. C’est là que le cercueil renfermant les corps de la personne décédée est déposée lors d’une inhumation. Après l’enterrement, la fosse est recouverte de terre et marquée par une pierre tombale ou un monument commémoratif. La fosse peut prendre une forme rectangulaire ou ovale dans le sol, généralement à une profondeur spécifique déterminée par les réglementations du cimetière. Chaque inhumation a lieu dans une fosse séparée et chaque fosse doit être située entre 1,5 et 2m de profondeur et faire 80cm de large. |
+| Moulages mortuaires | Procédures traditionnelle et locale consistant à prendre une empreinte d'un buste, visage ou main du défunt afin de reproduire une statue ou autre ornement. C'est une pratique de plus en plus rare. |
+| Ossuaire | L’ossuaire, un ancien caveau ou une simple fosse bénéficie d’une affectation définitive et perpétuelle. Il est destiné à recevoir les restes mortels provenant des sépultures et concessions reprises. |
+| Passe-pieds (la semelle, la bordure de propriété) | Cele correspond à une construction additionnelle en débordement des limites de l'espace concédé. Cette construction qualifiée d'illégale par le juge judiciaire vient couvrir en tout ou parti le domaine public communal. |
+| Procédure de reprise en état d'abandon | Procédure possible dans le cas : d'une concession de plus de 30 ans d'existence, dont la dernière inhumation a dû être effectuée il y a plus de 10 ans et qui est nécessairement à l'abandon. Cette procédure très encadrée permet à son terme au Maire de pouvoir concéder à nouveau le terrain. |
+| Servitude de passage sur le domaine public funéraire | Aux termes de l'article R. 2223-4 du CGCT, "Les fosses sont distantes les unes des autres de 30 à 40 centimètres sur les côtés, et de 30 à 50 centimètres de la tête aux pieds". Cette distance appartient au domaine public funéraire et est donc insusceptible de droits privatifs. Sur ce terrain le concessionnaire a seulement les droits d'usage général que possèdent tout les usagers de ce domaine public. |
+| Site cinéraire | L'espace cinéraire est un site destiné à l'accueil des cendres des défunts dont le corps a donné lieu à crémation. Depuis 2013 il est obligatoire pour les communes de plus de 2000 habitants. |
+| Soins de conservation ou soins de thanatopraxie | Ces soins réalisés par un thanatopracteur ont pour finalité de retarder la thanatomorphose et la dégradation du corps, par drainage des liquides et gaz qu'il contient et par injection d'un produit biocide. |
+| Transport à visage découvert (VD) | Voir transport de corps avant mise en bière. |
+| Transport de corps avant mise en bière | Ce transport du défunt est limité à un certain nombre de situations (transport vers le domicile du décédé ou d'un proche, vers une chambre funéraire, vers une chambre mortuaire, dans le cadre d'un don de corps et pour une autopsie) et est encadré selon le motif du transport. |
+| Vide sanitaire | Dans une sépulture, le vide sanitaire est l'espace laissé libre entre la surface du sol et le premier cercueil. De même des espaces inter-tombes sont prévus. |
 
 # Collectivités Territoriales
 
