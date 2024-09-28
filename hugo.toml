@@ -12,10 +12,16 @@ enable_collapsible_changelogs = false # default: false
 [menu]
 
 [[menu.navbar]]
+name = "Ressources"
+identifier = "Ressources"
+url = "/ressources/"
+weight = 10
+
+[[menu.navbar]]
 name = "Vocabulaire"
 identifier = "Vocabulaire"
 url = "/vocabulaire/"
-weight = 1
+weight = 50
 
 #[[menu.navbar]]
 #name = "Environnement territorial"

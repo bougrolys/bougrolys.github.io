@@ -32,11 +32,11 @@ toc: false
 | Déclarations préalables (Cerfa 16048*01) | Permet à un proche du défunt chargé d'organiser les funérailles ou à un opérateur funéraire de procéder aux déclarations préalables en mairie. Prévoit 4 opérations : opération de conservation, moulage mortuaire, transport du corps avant mise en bière et transport du corps après mise en bière. |
 | Droit à l'inhumation | Droit dû aux personnes décédées sur le territoire de la commune quel que soit leur domicile, aux personnes domiciliée sur la commune même si elle n'y sont pas décédées, aux personnes non domiciliées dans la commune mais qui y ont droit à une sépulture de famille, aux français établis hors de France, aux personnes ayant un fort attachement à la commune. |
 | Espace de dispersion de cendres | Appelé avant "jardin du souvenir", il permet aux familles ayant recueilli les cendres d'y disperser les cendres du défunt. Elles ont aussi le choix de les disséminer dans la nature (hors voie publique et propriété privée), suite à une déclaration à la mairie du lieu de naissance du défunt. |
-| Espace "inter-tombe" | Espace obligatoire permmetant la libre circulation autour des sépultures. Voir "Servitude de passage sur le domaine public funéraire". |
+| Espace "inter-tombe" | Espace obligatoire permettant la libre circulation autour des sépultures. Voir "Servitude de passage sur le domaine public funéraire". |
 | Fosse ou "pleine terre" ou "franche terre"| La fosse est la cavité creusée dans le sol. C’est là que le cercueil renfermant les corps de la personne décédée est déposée lors d’une inhumation. Après l’enterrement, la fosse est recouverte de terre et marquée par une pierre tombale ou un monument commémoratif. La fosse peut prendre une forme rectangulaire ou ovale dans le sol, généralement à une profondeur spécifique déterminée par les réglementations du cimetière. Chaque inhumation a lieu dans une fosse séparée et chaque fosse doit être située entre 1,5 et 2m de profondeur et faire 80cm de large. |
 | Moulages mortuaires | Procédures traditionnelle et locale consistant à prendre une empreinte d'un buste, visage ou main du défunt afin de reproduire une statue ou autre ornement. C'est une pratique de plus en plus rare. |
 | Ossuaire | L’ossuaire, un ancien caveau ou une simple fosse bénéficie d’une affectation définitive et perpétuelle. Il est destiné à recevoir les restes mortels provenant des sépultures et concessions reprises. |
-| Passe-pieds (la semelle, la bordure de propriété) | Cele correspond à une construction additionnelle en débordement des limites de l'espace concédé. Cette construction qualifiée d'illégale par le juge judiciaire vient couvrir en tout ou parti le domaine public communal. |
+| Passe-pieds (la semelle, la bordure de propriété) | Cela correspond à une construction additionnelle en débordement des limites de l'espace concédé. Cette construction qualifiée d'illégale par le juge judiciaire vient couvrir en tout ou parti le domaine public communal. |
 | Procédure de reprise en état d'abandon | Procédure possible dans le cas : d'une concession de plus de 30 ans d'existence, dont la dernière inhumation a dû être effectuée il y a plus de 10 ans et qui est nécessairement à l'abandon. Cette procédure très encadrée permet à son terme au Maire de pouvoir concéder à nouveau le terrain. |
 | Servitude de passage sur le domaine public funéraire | Aux termes de l'article R. 2223-4 du CGCT, "Les fosses sont distantes les unes des autres de 30 à 40 centimètres sur les côtés, et de 30 à 50 centimètres de la tête aux pieds". Cette distance appartient au domaine public funéraire et est donc insusceptible de droits privatifs. Sur ce terrain le concessionnaire a seulement les droits d'usage général que possèdent tout les usagers de ce domaine public. |
 | Site cinéraire | L'espace cinéraire est un site destiné à l'accueil des cendres des défunts dont le corps a donné lieu à crémation. Depuis 2013 il est obligatoire pour les communes de plus de 2000 habitants. |
@@ -90,7 +90,7 @@ toc: false
 | Délibération | Décision prise par le Conseil Municipal. |
 | Ordre du tableau | Classement des membres du conseil municipal. Dans l'ordre : le Maire, les adjoints selon l'ordre de leur élection et, entre adjoints élus sur la même liste, selon l'ordre de présentation sur la liste, et enfin les conseillers municipaux par ancienneté de leur élection, depuis le dernier renouvellement intégral du conseil municipal, entre conseillers élus le même jour, par le plus grand nombre de suffrages obtenus et, à égalité de voix, par priorité d'âge. |
 | Maire | Organe exécutif à l'échelle de la commune et agent de l'état. À ce titre il est officier d'état civil et de police judiciaire. Il dispose de pouvoir de polices qui lui sont propres. |
-| Mandat ou Pouvoir | Un conseiller municipal empéché d'assister à une séance peut donner à un collègue de son choix pouvoir écrit de voter en son nom. Article L2121-20 du CGCT. |
+| Mandat ou Pouvoir | Un conseiller municipal empêché d'assister à une séance peut donner à un collègue de son choix pouvoir écrit de voter en son nom. Article L2121-20 du CGCT. |
 | Visa | Les visas ont pour but d'informer le destinataire de l'acte des textes, avis, consultations au vu desquelles la décision a été prise. |
 
 # Finances
@@ -113,7 +113,7 @@ toc: false
 | CG | Compte de gestion |
 | CGI | Code général des impôts |
 | CLECT | Commission locale d'évaluation des charges transférées |
-| CRC | Chambre régionnale des comptes |
+| CRC | Chambre régionale des comptes |
 | CVAE | [Cotisation sur la valeur ajoutée des entreprises](https://www.economie.gouv.fr/entreprises/cotisation-valeur-ajoutee-entreprise-cvae) |
 | DCRTP | Dotation de compensation de la réforme de la taxe professionnelle |
 | DDFIP | Direction départementale des finances publiques |
@@ -132,14 +132,14 @@ toc: false
 | DUCSTP | Dotation unique  de compensation sur l'ex taxe professionnelle |
 | ELOP | Engagement, Liquidation, Ordonnancement, Paiement |
 | FCTVA | [Fonds de compensation pour la taxe sur la valeur ajoutée](https://www.collectivites-locales.gouv.fr/finances-locales/fonds-de-compensation-pour-la-taxe-sur-la-valeur-ajoutee-fctva) |
-| FEDER | Fonds européen de développement régionnal |
+| FEDER | Fonds européen de développement régional |
 | FEU | Fiscalité éolienne unique |
 | FNGIR | Fond national de péréquation rural |
 | FPIL | Fond de péréquation intercommunal |
 | FPU | (taux de) fiscalité professionnelle unique |
 | GBCP | (décret relatif à la) Gestion budgétaire et comptable publique |
 | GVT | Glissement Vieillesse et technicité |
-| ICNE | Intêrets courus non échus |
+| ICNE | Intérêts courus non échus |
 | IFER |Imposition forfaitaire sur les entreprises de réseaux |
 | Mapa | Marché à procédure adaptée |
 | PES | Protocole d'échange standard |
@@ -184,12 +184,12 @@ toc: false
 | Dotation de solidarité communautaire | Subvention versées par un EPCI visant à compenser les disparités de développement entre les communes membres. |
 | État 1259 | État de notification des bases d'imposition préparé par les services fiscaux de l'État sur la base des travaux de la CDIC. |
 | Engagement | Action par laquelle on créé ou constate une obligation de laquelle résulte une dépense. |
-| Épargne brut | L'épargne brut correspond à la CAF (capacité d'autonofinancement). |
+| Épargne brut | L'épargne brut correspond à la CAF (capacité d'autofinancement). |
 | Épargne net | Épargne brut à laquelle on a déduit l'amortissement. |
 | Fiche d'immobilisation ou fiche d'inventaire | Ces fiches ont pour objet de suivre chaque bien individuellement identifié par le numéro d'inventaire attribué par l'ordonnateur. Le cas échéant, les amortissements et/ou les dépréciations pratiqués en fin d’exercice seront portés dans la fiche inventaire afin de déterminer la valeur nette comptable du bien. L’ensemble des éléments affectant la vie du bien devant figurer sur la fiche inventaire, il est recommandé d’y porter les subventions finançant chaque bien.|
 | Fonctionnement | Section comptable listant les dépenses courantes de la collectivité ne participant pas à augmenter son patrimoine, ainsi que les recettes associées. |
 | Fongibilité des crédits | La fongibilité des crédits consiste en la possibilité pour l’exécutif, si l’assemblée l’y a autorisé, de procéder à des virements de crédits de chapitre à chapitre au sein de la même section, à l’exclusion des crédits relatifs aux dépenses de personnel, dans une limite fixée par l’assemblée délibérante et ne pouvant dépasser 7,5 % des dépenses réelles de la section conformément à l’article L. 5217-10-6 du CGCT. |
-| Imputation | Fait d'inscrire une dépense ou une recette dans la classe, le chapitre et l'article corrspondant. |
+| Imputation | Fait d'inscrire une dépense ou une recette dans la classe, le chapitre et l'article correspondant. |
 | Inscription budgétaire | Voir imputation. |
 | Investissement | Section comptable listant les dépenses de la collectivité participant à augmenter son patrimoine (mobilier et immobilier), ainsi que les recettes associées. |
 | Libératoire | "Libératoire" est l'adjectif qui qualifie la prestation qui éteint une dette. Le paiement portant sur la totalité d'une dette est libératoire. |
@@ -203,7 +203,7 @@ toc: false
 | Provision | Les provisions correspondent à une opération d'ordre visant à prévoir une dépense exceptionnelle lorsque la collectivité est exposée à un risque avéré (contentieux, recouvrement, garantue d'eprunt).  |
 | P503 | Compte d'attente recevant les recettes avant qu'elles soient ventilées. |
 | PES-ASAP | Liste des prélèvements effectués à régulariser (imputer). |
-| R001 | Solde d'éxécution de la section d'investissement reporté. |
+| R001 | Solde d'exécution de la section d'investissement reporté. |
 | R002 | Solde d'exécution de la section de fonctionnement reporté. | 
 | Reste à réaliser (RAR) | Lorsqu'au cours d'une année N+1 il reste des crédits d'investissement engagés mais non liquidés, ces opérations deviennent des restes à réaliser. Ces crédits peuvent être engagés à hauteur de 1/4 du budget d'investissement de l'année N avant le vote du BP ou reporté à l'année N+1. |
 | Section | Séparation comptable dans le cadre des finances publiques. Les sections sont au nombre de deux et dépendent de la nature des charges et recettes : fonctionnement et investissement. |
@@ -227,7 +227,7 @@ toc: false
 | CADA | Commission d'accès aux documents administratifs |
 | CDG ou CDGFPT | Centre département de gestion de la fonction publique territoriale |
 | CE | Conseil d'État |
-| CESER | Conseil économique social et environnemental régionnal |
+| CESER | Conseil économique social et environnemental régional |
 | CNFPT | Centre national de la fonction publique territoriale |
 | CNIL | Commission National Informatique et Liberté |
 | TA | Tribunal administratif |
@@ -282,7 +282,7 @@ toc: false
 | --- | --- |
 | ABF | Architecte des Bâtiments de France |
 | AOT(DP) | Autorisation d'occupation temporaire du domaine public |
-| CU | Certficat d'urbanisme |
+| CU | Certificat d'urbanisme |
 | DAACT | Déclaration attestant l'achèvement et la conformité des travaux |
 | DIA | Déclaration d'intention d'aliéner |
 | DP | Déclaration préalable |
