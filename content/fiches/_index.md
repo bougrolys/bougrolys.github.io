@@ -10,3 +10,4 @@ date: 2024-08-27T07:07:07+01:00
 ## État civil
 
 - [Mariage](/fiches/mariage)
+- [Mentions](/fiches/mentions)

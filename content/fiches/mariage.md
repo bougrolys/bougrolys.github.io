@@ -3,7 +3,7 @@ title: "Fiche pratique : Mariage"
 draft: false
 slug: mariage
 toc : false
-date: 2024-08-27T07:07:07+01:00
+date: 2024-09-31T07:07:07+01:00
 ---
 
 # Le mariage
