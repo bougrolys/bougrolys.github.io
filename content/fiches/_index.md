@@ -11,3 +11,4 @@ date: 2024-08-27T07:07:07+01:00
 
 - [Mariage](/fiches/mariage)
 - [Mentions](/fiches/mentions)
+- [PACS](/fiches/pacs)
