@@ -3,6 +3,15 @@ languageCode = 'fr-fr'
 title = 'Le petit manuel de la secrétaire de mairie'
 theme = "hugo-theme-monochrome"
 
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      strikethrough = false
+      [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.superscript]
+          enable = true
+
 [params]
 footer = "Site maintenu par Bougro Lys" # default: None
 enable_toc = true # default: true

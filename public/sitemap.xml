@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bougrolys.github.io/fiches/demande-livret-famille/</loc>
+    <lastmod>2024-10-02T08:07:07+01:00</lastmod>
+  </url><url>
     <loc>https://bougrolys.github.io/fiches/pacs/</loc>
     <lastmod>2024-10-02T07:07:07+01:00</lastmod>
   </url><url>
     <loc>https://bougrolys.github.io/fiches/mentions/</loc>
     <lastmod>2024-10-01T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>https://bougrolys.github.io/fiches/mariage/</loc>
+    <lastmod>2024-09-30T07:07:07+01:00</lastmod>
   </url><url>
     <loc>https://bougrolys.github.io/</loc>
     <lastmod>2024-08-28T07:07:07+01:00</lastmod>
@@ -21,8 +27,6 @@
     <lastmod>2024-08-27T07:07:07+01:00</lastmod>
   </url><url>
     <loc>https://bougrolys.github.io/categories/</loc>
-  </url><url>
-    <loc>https://bougrolys.github.io/fiches/mariage/</loc>
   </url><url>
     <loc>https://bougrolys.github.io/tags/</loc>
   </url>
