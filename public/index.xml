@@ -183,39 +183,13 @@
       <pubDate>Wed, 28 Aug 2024 07:07:07 +0100</pubDate>
       
       <guid>https://bougrolys.github.io/ressources/</guid>
-      <description>&lt;h1 id=&#34;liste-des-ressources&#34; class=&#34;header-anchor-wrapper&#34;&gt;Liste des ressources
-  &lt;a href=&#34;#liste-des-ressources&#34; class=&#34;header-anchor-link&#34;&gt;
-    &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
-&lt;svg
-    xmlns=&#34;http://www.w3.org/2000/svg&#34;
-    width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
-    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
-    stroke-linejoin=&#34;round&#34;&gt;
-    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
-&lt;/svg&gt;
-
-&lt;/svg&gt;
-  &lt;/a&gt;
-&lt;/h1&gt;
+      <description>&lt;h1&gt;Liste des ressources&lt;/h1&gt;
 
 
-&lt;h2 id=&#34;sites&#34; class=&#34;header-anchor-wrapper&#34;&gt;Sites
-  &lt;a href=&#34;#sites&#34; class=&#34;header-anchor-link&#34;&gt;
-    &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
-&lt;svg
-    xmlns=&#34;http://www.w3.org/2000/svg&#34;
-    width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
-    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
-    stroke-linejoin=&#34;round&#34;&gt;
-    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
-&lt;/svg&gt;
-
-&lt;/svg&gt;
-  &lt;/a&gt;
-&lt;/h2&gt;
+&lt;h2&gt;Sites&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.banatic.interieur.gouv.fr/&#34;&gt;BANATIC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.banatic.interieur.gouv.fr/&#34;&gt;BANATIC&lt;/a&gt; : Source de renseignement sur les intercommunalités présentes sur le territoire.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cdg17.fr/&#34;&gt;CDG 17&lt;/a&gt; : Site du CDG de la Charente-Maritime.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cnfpt.fr/&#34;&gt;CNFPT&lt;/a&gt; : Site du CNFPT.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.lagazettedescommunes.com/&#34;&gt;Gazette des communes&lt;/a&gt; : Site accessible sur abonnement. Suit l&amp;rsquo;actualité impactant les communes et proposent des fiches sur nos thématiques métiers.&lt;/li&gt;
@@ -224,20 +198,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.wikiterritorial.cnfpt.fr/xwiki/bin/view/Main/WebHome&#34;&gt;Wikiterritorial&lt;/a&gt; : Wiki contenant de nombreuses ressources sur l&amp;rsquo;environnement territorial.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;organismes&#34; class=&#34;header-anchor-wrapper&#34;&gt;Organismes
-  &lt;a href=&#34;#organismes&#34; class=&#34;header-anchor-link&#34;&gt;
-    &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
-&lt;svg
-    xmlns=&#34;http://www.w3.org/2000/svg&#34;
-    width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
-    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
-    stroke-linejoin=&#34;round&#34;&gt;
-    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
-&lt;/svg&gt;
-
-&lt;/svg&gt;
-  &lt;/a&gt;
-&lt;/h2&gt;
+&lt;h2&gt;Organismes&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;AMF&lt;/li&gt;
@@ -257,25 +218,13 @@
       <pubDate>Wed, 28 Aug 2024 07:07:07 +0100</pubDate>
       
       <guid>https://bougrolys.github.io/vocabulaire/</guid>
-      <description>&lt;h1 id=&#34;liste-des-thèmes&#34; class=&#34;header-anchor-wrapper&#34;&gt;Liste des thèmes
-  &lt;a href=&#34;#liste-des-th%c3%a8mes&#34; class=&#34;header-anchor-link&#34;&gt;
-    &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
-&lt;svg
-    xmlns=&#34;http://www.w3.org/2000/svg&#34;
-    width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
-    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
-    stroke-linejoin=&#34;round&#34;&gt;
-    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
-&lt;/svg&gt;
-
-&lt;/svg&gt;
-  &lt;/a&gt;
-&lt;/h1&gt;
+      <description>&lt;h1&gt;Liste des thèmes&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#cimeti%C3%A8re&#34;&gt;Cimetière&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#collectivit%C3%A9s-territoriales&#34;&gt;Collectivités Territoriales&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#conseil-municipal-et-bloc-communal&#34;&gt;Conseil municipal et bloc communal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%C3%A9tat-civil&#34;&gt;État civil&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#finances&#34;&gt;Finances&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#g%C3%A9n%C3%A9ral&#34;&gt;Général&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#institutions&#34;&gt;Institutions&lt;/a&gt;&lt;/li&gt;
@@ -284,20 +233,7 @@
 &lt;li&gt;&lt;a href=&#34;#urbanisme&#34;&gt;Urbanisme&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;cimetière&#34; class=&#34;header-anchor-wrapper&#34;&gt;Cimetière
-  &lt;a href=&#34;#cimeti%c3%a8re&#34; class=&#34;header-anchor-link&#34;&gt;
-    &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
-&lt;svg
-    xmlns=&#34;http://www.w3.org/2000/svg&#34;
-    width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
-    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
-    stroke-linejoin=&#34;round&#34;&gt;
-    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
-&lt;/svg&gt;
-
-&lt;/svg&gt;
-  &lt;/a&gt;
-&lt;/h1&gt;
+&lt;h1&gt;Cimetière&lt;/h1&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -616,8 +552,8 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;finances&#34; class=&#34;header-anchor-wrapper&#34;&gt;Finances
-  &lt;a href=&#34;#finances&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;h1 id=&#34;état-civil&#34; class=&#34;header-anchor-wrapper&#34;&gt;État-Civil
+  &lt;a href=&#34;#%c3%a9tat-civil&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
     xmlns=&#34;http://www.w3.org/2000/svg&#34;
@@ -634,6 +570,86 @@
 
 &lt;h2 id=&#34;abréviations&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
   &lt;a href=&#34;#abr%c3%a9viations&#34; class=&#34;header-anchor-link&#34;&gt;
+    &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/svg&gt;
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Abréviation(s)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Nom complet&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;IGREC&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Instruction Général relative à l&amp;rsquo;État Civil&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;J21&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Loi n°2016-1547 du 18 novembre 2016 de modernisation de la justice du XXI&lt;sup&gt;ème&lt;/sup&gt; siècle&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;vocabulaire-1&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
+  &lt;a href=&#34;#vocabulaire-1&#34; class=&#34;header-anchor-link&#34;&gt;
+    &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/svg&gt;
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Nom&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Définition&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Officier d&amp;rsquo;État Civil&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Personne responsable de la tenue des registres d&amp;rsquo;État Civil&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;finances&#34; class=&#34;header-anchor-wrapper&#34;&gt;Finances
+  &lt;a href=&#34;#finances&#34; class=&#34;header-anchor-link&#34;&gt;
+    &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/svg&gt;
+  &lt;/a&gt;
+&lt;/h1&gt;
+
+
+&lt;h2 id=&#34;abréviations-1&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
+  &lt;a href=&#34;#abr%c3%a9viations-1&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
     xmlns=&#34;http://www.w3.org/2000/svg&#34;
@@ -894,8 +910,8 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;vocabulaire-1&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
-  &lt;a href=&#34;#vocabulaire-1&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;h2 id=&#34;vocabulaire-2&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
+  &lt;a href=&#34;#vocabulaire-2&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
     xmlns=&#34;http://www.w3.org/2000/svg&#34;
@@ -1154,8 +1170,8 @@
 &lt;/h1&gt;
 
 
-&lt;h2 id=&#34;abréviations-1&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
-  &lt;a href=&#34;#abr%c3%a9viations-1&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;h2 id=&#34;abréviations-2&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
+  &lt;a href=&#34;#abr%c3%a9viations-2&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
     xmlns=&#34;http://www.w3.org/2000/svg&#34;
@@ -1206,6 +1222,10 @@
           &lt;td style=&#34;text-align: left&#34;&gt;Commission National Informatique et Liberté&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;CSFPT&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Conseil supérieur de la fonction publique territoriale&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;TA&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Tribunal administratif&lt;/td&gt;
       &lt;/tr&gt;
@@ -1220,8 +1240,8 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;vocabulaire-2&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
-  &lt;a href=&#34;#vocabulaire-2&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;h2 id=&#34;vocabulaire-3&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
+  &lt;a href=&#34;#vocabulaire-3&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
     xmlns=&#34;http://www.w3.org/2000/svg&#34;
@@ -1294,8 +1314,16 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;CAP&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Commission administrative paritaire&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;CARSAT&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Caisses d&amp;rsquo;assurance retraite et de la santé au travail&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;CCP&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Commission consultative paritaire&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;CNAV&lt;/td&gt;
@@ -1306,6 +1334,18 @@
           &lt;td style=&#34;text-align: left&#34;&gt;Caisse Nationale de Retraites des Agents des Collectivités Locales&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;CST&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Commité social territorial&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;DVE&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Déclaration de vacance d&amp;rsquo;emploi&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;NBI&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nouvelle bonification indiciaire&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;RAFP&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Retraite additionnelle de la fonction publique&lt;/td&gt;
       &lt;/tr&gt;
@@ -1313,11 +1353,19 @@
           &lt;td style=&#34;text-align: left&#34;&gt;RQTH&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Reconnaissance qualité travailleur handicapé&lt;/td&gt;
       &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;TC&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Temps complet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;TNC&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Temps non complet&lt;/td&gt;
+      &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;vocabulaire-3&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
-  &lt;a href=&#34;#vocabulaire-3&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;h2 id=&#34;vocabulaire-4&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
+  &lt;a href=&#34;#vocabulaire-4&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
     xmlns=&#34;http://www.w3.org/2000/svg&#34;
@@ -1340,20 +1388,104 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3&lt;sup&gt;ème&lt;/sup&gt; concours&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Concours accessible sous certaines conditions particulières (mandat d&amp;rsquo;élu local, responsable associatif, etc.).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Agent intercommunal&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Un agent intercommunal est un agent recruté sur le même emploi à temps non complet et sur le même grade dans plusieurs collectivités ou établissements.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Agent pluricommunal&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Un agent pluricommunal est un agent recruté sur plusieurs emplois à temps non complet et sur plusieurs grades dans plusieurs collectivités ou établissements.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Agent polyvalent&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Un agent polyvalent est un agent qui occupe plusieurs emplois et grade au sein d’une même collectivité.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Cadre d&amp;rsquo;emplois&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Le cadre d’emplois regroupe les fonctionnaires des régions, des départements, des communes et des établissements publics en relevant qui sont soumis au même statut particulier et titulaires d’un grade leur donnant vocation à occuper un ensemble d’emplois. Chaque cadre d’emplois comprend un ou plusieurs grades.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Catégorie&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Division de la fonction publique selon les responsabilités hiérarchiques et les connaissances attendues de l&amp;rsquo;agent. Elles sont au nombre de 3 : A, B et C.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Concours externe&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Concours accessible à tous sous condition de diplôme en fonction des catégories.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Concours interne&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Concours réservé aux agents de la fonction publique sous condition d&amp;rsquo;ancienneté de service public.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Contractuel&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Les agents contractuels sont des agents publics non fonctionnaires.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Entretien annuel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Entretien annuel avec les agents de la collectivité assuré par le supérieur hiérarchique. Au cours de cet entretien il est fait un point sur le &amp;hellip;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Filières&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Les filières de la fonction publique territoriale regroupent les cadres d&amp;rsquo;emploi d’un même secteur d’activité. Elles sont au nombre de 8 dans la FPT(administrative, technique, animation, médico-sociale, police municipale, sportive, culturelle et sapeurs-pompiers professionnels).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Grade&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Échelle hiérarchique intermédiaire entre la catégorie et l&amp;rsquo;échelon. Chaque fonctionnaire appartient à une catégorie et a un grade et un échelon.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Grille indiciaire&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;La grille indiciaire territoriale indique la rémunération brute mensuelle d&amp;rsquo;un agent de la Fonction Publique Territoriale. Elle affiche par échelon les indices brut et majoré servant au calcul du traitement indiciaire. À chaque catégorie et grade correspond une échelle indiciaire.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Indice majoré&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Indice servant de base pour le calcul du traitement indiciaire.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Ircantec&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Caisse de retraite complémentaire réservée aux contractuels.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Licenciement&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Par cette procédure l&amp;rsquo;agent perd son poste, mais s&amp;rsquo;il est titulaire, il garde son grade.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nomination&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Pour pourvoir un emploi affiché au tableau des effectifs, l&amp;rsquo;autorité territoriale prend un arrêté de nomination. C&amp;rsquo;est à ce moment là que le nouvel agent intègre les effectifs de la commune.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Prolongation de stage&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Du fait de congés rémunérés de toute nature excédant 1/10&lt;sup&gt;ème&lt;/sup&gt; de la durée de stage ou en cas de temps partiel, le stage est prolongé d&amp;rsquo;une durée correspondante.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Prorogation&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;En cas d&amp;rsquo;insuffisance professionnelle, la prorogation permet de repousser la fin de stage et par conséquence la date de titularisation. La durée préalablement passée en stage ne sera donc pas compter dans le calcul de l&amp;rsquo;ancienneté de la carrière de l&amp;rsquo;agent.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Séparation du grade et de l&amp;rsquo;emploi&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Le grade appartient à l&amp;rsquo;agent et correspond à un niveau de responsabilité et de compétence de l&amp;rsquo;agent. L&amp;rsquo;emploi correspond au poste occupé par l&amp;rsquo;agent et est défini par la collectivité territoriale.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Stagiaire&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Un fonctionnaire territorial stagiaire est une personne qui, nommée dans un emploi permanent, accomplit les fonctions afférentes au dit emploi et à vocation à être titularisée dans le grade correspondant.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Temps non complet&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Emploi inscrit au tableau des effectifs mais dont la durée est inférieur à 35h hebdomadaire.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Temps partiel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;L&amp;rsquo;agent à temps partiel est celui qui choisit de réduire sa durée de travail. Ainsi le poste est inscrit au tableau des effectifs avec une certaine durée, mais la quotité de travail effectué par l&amp;rsquo;agent est inférieure à 100%.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Titulaire&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Les titulaires sont des agents publics fonctionnaires.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Traitement (indiciaire)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nom de la partie fixe de la rémunération perçue par l&amp;rsquo;agent de la fonction publique.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Vacataire&lt;/td&gt;
@@ -1428,8 +1560,8 @@
 &lt;/h1&gt;
 
 
-&lt;h2 id=&#34;abréviations-2&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
-  &lt;a href=&#34;#abr%c3%a9viations-2&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;h2 id=&#34;abréviations-3&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
+  &lt;a href=&#34;#abr%c3%a9viations-3&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
     xmlns=&#34;http://www.w3.org/2000/svg&#34;
@@ -1514,8 +1646,8 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;vocabulaire-4&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
-  &lt;a href=&#34;#vocabulaire-4&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;h2 id=&#34;vocabulaire-5&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
+  &lt;a href=&#34;#vocabulaire-5&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
     xmlns=&#34;http://www.w3.org/2000/svg&#34;

@@ -10,7 +10,7 @@ toc: false
 
 ## Sites
 
-- [BANATIC](https://www.banatic.interieur.gouv.fr/)
+- [BANATIC](https://www.banatic.interieur.gouv.fr/) : Source de renseignement sur les intercommunalités présentes sur le territoire.
 - [CDG 17](https://www.cdg17.fr/) : Site du CDG de la Charente-Maritime.
 - [CNFPT](https://www.cnfpt.fr/) : Site du CNFPT.
 - [Gazette des communes](https://www.lagazettedescommunes.com/) : Site accessible sur abonnement. Suit l'actualité impactant les communes et proposent des fiches sur nos thématiques métiers.

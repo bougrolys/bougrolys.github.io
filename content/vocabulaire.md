@@ -11,6 +11,7 @@ toc: false
 - [Cimetière](#cimetière)
 - [Collectivités Territoriales](#collectivités-territoriales)
 - [Conseil municipal et bloc communal](#conseil-municipal-et-bloc-communal)
+- [État civil](#état-civil)
 - [Finances](#finances)
 - [Général](#général)
 - [Institutions](#institutions) 
@@ -92,6 +93,21 @@ toc: false
 | Maire | Organe exécutif à l'échelle de la commune et agent de l'état. À ce titre il est officier d'état civil et de police judiciaire. Il dispose de pouvoir de polices qui lui sont propres. |
 | Mandat ou Pouvoir | Un conseiller municipal empêché d'assister à une séance peut donner à un collègue de son choix pouvoir écrit de voter en son nom. Article L2121-20 du CGCT. |
 | Visa | Les visas ont pour but d'informer le destinataire de l'acte des textes, avis, consultations au vu desquelles la décision a été prise. |
+
+# État-Civil
+
+## Abréviations
+
+| Abréviation(s) | Nom complet |
+| --- | --- |
+| IGREC | Instruction Général relative à l'État Civil |
+| J21 | Loi n°2016-1547 du 18 novembre 2016 de modernisation de la justice du XXI^ème^ siècle |
+
+## Vocabulaire
+
+| Nom | Définition |
+| --- | --- |
+| Officier d'État Civil | Personne responsable de la tenue des registres d'État Civil |
 
 # Finances
 
@@ -230,6 +246,7 @@ toc: false
 | CESER | Conseil économique social et environnemental régional |
 | CNFPT | Centre national de la fonction publique territoriale |
 | CNIL | Commission National Informatique et Liberté |
+| CSFPT | Conseil supérieur de la fonction publique territoriale |
 | TA | Tribunal administratif |
 | TGI | Tribunal de grande instance |
 | TI | Tribunal d'instance |
@@ -247,20 +264,48 @@ toc: false
 
 | Abréviation | Nom complet |
 | --- | --- |
+| CAP | Commission administrative paritaire |
 | CARSAT | Caisses d'assurance retraite et de la santé au travail |
+| CCP | Commission consultative paritaire |
 | CNAV | Caisse nationale d'assurance vieillesse |
 | CNRACL | Caisse Nationale de Retraites des Agents des Collectivités Locales |
+| CST | Commité social territorial |
+| DVE | Déclaration de vacance d'emploi |
+| NBI | Nouvelle bonification indiciaire |
 | RAFP | Retraite additionnelle de la fonction publique |
 | RQTH | Reconnaissance qualité travailleur handicapé |
+| TC | Temps complet |
+| TNC | Temps non complet |
 
 ## Vocabulaire
 
 | Nom | Définition |
 | --- | --- |
+| 3^ème^ concours | Concours accessible sous certaines conditions particulières (mandat d'élu local, responsable associatif, etc.). |
+| Agent intercommunal | Un agent intercommunal est un agent recruté sur le même emploi à temps non complet et sur le même grade dans plusieurs collectivités ou établissements. |
+| Agent pluricommunal | Un agent pluricommunal est un agent recruté sur plusieurs emplois à temps non complet et sur plusieurs grades dans plusieurs collectivités ou établissements. |
+| Agent polyvalent | Un agent polyvalent est un agent qui occupe plusieurs emplois et grade au sein d’une même collectivité. |
+| Cadre d'emplois | Le cadre d’emplois regroupe les fonctionnaires des régions, des départements, des communes et des établissements publics en relevant qui sont soumis au même statut particulier et titulaires d’un grade leur donnant vocation à occuper un ensemble d’emplois. Chaque cadre d’emplois comprend un ou plusieurs grades. |
+| Catégorie | Division de la fonction publique selon les responsabilités hiérarchiques et les connaissances attendues de l'agent. Elles sont au nombre de 3 : A, B et C. |
+| Concours externe | Concours accessible à tous sous condition de diplôme en fonction des catégories. |
+| Concours interne | Concours réservé aux agents de la fonction publique sous condition d'ancienneté de service public. |
 | Contractuel | Les agents contractuels sont des agents publics non fonctionnaires. |
+| Entretien annuel | Entretien annuel avec les agents de la collectivité assuré par le supérieur hiérarchique. Au cours de cet entretien il est fait un point sur le ... |
+| Filières | Les filières de la fonction publique territoriale regroupent les cadres d'emploi d’un même secteur d’activité. Elles sont au nombre de 8 dans la FPT(administrative, technique, animation, médico-sociale, police municipale, sportive, culturelle et sapeurs-pompiers professionnels). |
+| Grade | Échelle hiérarchique intermédiaire entre la catégorie et l'échelon. Chaque fonctionnaire appartient à une catégorie et a un grade et un échelon. |
+| Grille indiciaire | La grille indiciaire territoriale indique la rémunération brute mensuelle d'un agent de la Fonction Publique Territoriale. Elle affiche par échelon les indices brut et majoré servant au calcul du traitement indiciaire. À chaque catégorie et grade correspond une échelle indiciaire. |
+| Indice majoré | Indice servant de base pour le calcul du traitement indiciaire. |
 | Ircantec | Caisse de retraite complémentaire réservée aux contractuels. |
+| Licenciement | Par cette procédure l'agent perd son poste, mais s'il est titulaire, il garde son grade. |
+| Nomination | Pour pourvoir un emploi affiché au tableau des effectifs, l'autorité territoriale prend un arrêté de nomination. C'est à ce moment là que le nouvel agent intègre les effectifs de la commune. |
+| Prolongation de stage | Du fait de congés rémunérés de toute nature excédant 1/10^ème^ de la durée de stage ou en cas de temps partiel, le stage est prolongé d'une durée correspondante. |
+| Prorogation | En cas d'insuffisance professionnelle, la prorogation permet de repousser la fin de stage et par conséquence la date de titularisation. La durée préalablement passée en stage ne sera donc pas compter dans le calcul de l'ancienneté de la carrière de l'agent. |
+| Séparation du grade et de l'emploi | Le grade appartient à l'agent et correspond à un niveau de responsabilité et de compétence de l'agent. L'emploi correspond au poste occupé par l'agent et est défini par la collectivité territoriale. |
 | Stagiaire | Un fonctionnaire territorial stagiaire est une personne qui, nommée dans un emploi permanent, accomplit les fonctions afférentes au dit emploi et à vocation à être titularisée dans le grade correspondant. |
+| Temps non complet | Emploi inscrit au tableau des effectifs mais dont la durée est inférieur à 35h hebdomadaire. |
+| Temps partiel | L'agent à temps partiel est celui qui choisit de réduire sa durée de travail. Ainsi le poste est inscrit au tableau des effectifs avec une certaine durée, mais la quotité de travail effectué par l'agent est inférieure à 100%. |
 | Titulaire | Les titulaires sont des agents publics fonctionnaires. |
+| Traitement (indiciaire) | Nom de la partie fixe de la rémunération perçue par l'agent de la fonction publique. |
 | Vacataire | Le vacataire n'est pas recruté sur un emploi. Il est recruté pour accomplir une tâche précise et ponctuelle. Il est rémunéré à la tâche. |
 
 # Services déconcentrés de l'État
