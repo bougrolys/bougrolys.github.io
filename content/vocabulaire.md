@@ -107,7 +107,9 @@ toc: false
 
 | Nom | Définition |
 | --- | --- |
+| Baptême civil ou baptême républicain | Cérémonie sans effet juridique prévue sur le principe du baptême religieux. |
 | Officier d'État Civil | Personne responsable de la tenue des registres d'État Civil |
+| Officier d'État Civil par délégation | Élu du conseil municipal nommé par un arrêté à titre temporaire et dérogatoire ou fonctionnaire titulaire nommé par arrêté. La délégation de compétence est entière. |
 
 # Finances
 
@@ -267,13 +269,18 @@ toc: false
 | CAP | Commission administrative paritaire |
 | CARSAT | Caisses d'assurance retraite et de la santé au travail |
 | CCP | Commission consultative paritaire |
+| CIA | Complément indemnitaire annuel |
 | CNAV | Caisse nationale d'assurance vieillesse |
 | CNRACL | Caisse Nationale de Retraites des Agents des Collectivités Locales |
 | CST | Commité social territorial |
 | DVE | Déclaration de vacance d'emploi |
+| IFSE | Indemnité de fonctionnement, de sujétions et d'expertise |
 | NBI | Nouvelle bonification indiciaire |
 | RAFP | Retraite additionnelle de la fonction publique |
+| RIFSEEP | Régime indemnitaire tenant compte des fonctions, des sujétions et de l'engagement professionnel |
 | RQTH | Reconnaissance qualité travailleur handicapé |
+| RTT | Récupération de temps de travail |
+| SFT | Supplément familial de traitement |
 | TC | Temps complet |
 | TNC | Temps non complet |
 
@@ -282,8 +289,10 @@ toc: false
 | Nom | Définition |
 | --- | --- |
 | 3^ème^ concours | Concours accessible sous certaines conditions particulières (mandat d'élu local, responsable associatif, etc.). |
+| Activité | Situation normale du titulaire considéré en activité. Des périodes non travaillées comme les congés annuels peuvent être considérées comme des périodes d'activité. |
 | Agent intercommunal | Un agent intercommunal est un agent recruté sur le même emploi à temps non complet et sur le même grade dans plusieurs collectivités ou établissements. |
 | Agent pluricommunal | Un agent pluricommunal est un agent recruté sur plusieurs emplois à temps non complet et sur plusieurs grades dans plusieurs collectivités ou établissements. |
+| Autorisation spéciale d'absence | Congé exceptionnel octroyé pour certains motifs : familial, syndical, religieux, politique, etc. |
 | Avancement à cadencement unique | L'avancement d'échelon suit un cadencement unique, c'est à dire qu'une fois une durée déterminée passée, l'agent passe automatiquement à l'échelon supérieur. L'agent ne peut avancer d'échelon ni plus vite, ni plus lentement.|
 | Avancement de grade | L'avancement de grade correspond à la possibilité pour un agent de passer au grade supérieur de sa catégorie. Ce n'est pas un droit. L'agent qui remplit les conditions d'avancement de grade doivent demandé à l'autorité territoriale d'être inscrit au tableau d'avancement de grade et si nécessaire que soit ouvert le poste associé au tableau des effectifs pour y être nommé. La possibilité de cet avancement dépend d'un ratio promus/promouvables. |
 | Agent polyvalent | Un agent polyvalent est un agent qui occupe plusieurs emplois et grade au sein d’une même collectivité. |
@@ -291,23 +300,35 @@ toc: false
 | Catégorie | Division de la fonction publique selon les responsabilités hiérarchiques et les connaissances attendues de l'agent. Elles sont au nombre de 3 : A, B et C. |
 | Concours externe | Concours accessible à tous sous condition de diplôme en fonction des catégories. |
 | Concours interne | Concours réservé aux agents de la fonction publique sous condition d'ancienneté de service public. |
+| Compte épargne-temps | Possibilité d'accumuler des droits à congés rémunérés par le report de jours de congés, de RTT et/ou de repos compensateur. |
+| Congé parental | Congés accordé de droit à la naissance d'un enfant. Désigne aussi une position administrative. |
+| Congé de présence parentale | Congé accordé de droit au parent d'un enfant à charge dont la maladie, le handicap "présentent une particulière gravité rendant indispensable une présence soutenue de sa mère ou de son père et des soins contraignants". |
+| Congé de solidarité familiale | Le congé de solidarité familiale permet à un fonctionnaire de réduire ou de cesser son activité professionnelle pour accompagner un proche en fin de vie. |
 | Contractuel | Les agents contractuels sont des agents publics non fonctionnaires. |
+| Détachement | Le détachement a pour  vocation de permettre la mobilité entre les trois fonctions publiques. Le fonctionnaire est placé sur sa demande hors de son cadre d'emploi, son emploi ou encore de son corps d'origine. Il a alors une double carrière. |
+| Disponibilité | La disponibilité est en quelque sorte une manière pour l'agent de mettre en pause sa carrière et de cesser son activité son quitter son emploi. |
 | Échelon | L'échelon est une division du grade et de la grille indiciaire permettant de calculer le traitement indiciaire du fonctionnaire. Il change automatiquement au cours de l'avancée de la carrière de l'agent. |
 | Entretien professionnel | Entretien annuel avec les agents de la collectivité assuré par le supérieur hiérarchique. Au cours de cet entretien il est fait un point sur ses résultats, les objectifs de l'année passée et ceux de l'année à venir, ses besoins de formation, ses difficultés, ses perspectives d'évolutions professionnelles (grade, concours, promotion interne, etc.). |
 | Filières | Les filières de la fonction publique territoriale regroupent les cadres d'emploi d’un même secteur d’activité. Elles sont au nombre de 8 dans la FPT(administrative, technique, animation, médico-sociale, police municipale, sportive, culturelle et sapeurs-pompiers professionnels). |
 | Grade | Échelle hiérarchique intermédiaire entre la catégorie et l'échelon. Chaque fonctionnaire appartient à une catégorie et a un grade et un échelon. |
 | Grille indiciaire | La grille indiciaire territoriale indique la rémunération brute mensuelle d'un agent de la Fonction Publique Territoriale. Elle affiche par échelon les indices brut et majoré servant au calcul du traitement indiciaire. À chaque catégorie et grade correspond une échelle indiciaire. |
+| Heures complémentaires | Heures effectuées en plus du temps de travail inscrit au tableau des effectifs. On parle d'heures complémentaires lorsque le temps de travail effectif total est inférieur ou égal à 35h dans la semaine. |
+| Heures supplémentaires | Heures effectuées en plus du temps de travail inscrit au tableau des effectifs. On parle d'heures supplémentaires lorsque le temps de travail effectif total est supérieur à 35h dans la semaine. |
 | Indice majoré | Indice servant de base pour le calcul du traitement indiciaire. |
 | Ircantec | Caisse de retraite complémentaire réservée aux contractuels. |
+| Jours de fractionnement | Jours de congés additionnels accordés en fonction des périodes où les autres jours de congés sont posés. |
 | Licenciement | Par cette procédure l'agent perd son poste, mais s'il est titulaire, il garde son grade. |
 | Lignes directrices de gestion | Les LDG détermine pour chaque collectivité sa stratégie pluriannuelle des ressources humaines et fixer les orientations générales en matière de promotion. Elle est soumise au CST. Pour les collectivités affiliées au CDG elles sont préparées par son président. |
+| Mise à disposition | L'agent demeure dans son cadre d'emploi et est réputé occuper son emploi. Il continue de percevoir la rémunération correspondante mais exerce ses fonctions hors du service où il a vocation à servir. |
 | Nomination | Pour pourvoir un emploi affiché au tableau des effectifs, l'autorité territoriale prend un arrêté de nomination. C'est à ce moment là que le nouvel agent intègre les effectifs de la commune. |
-|Position administrative | La position administrative du fonctionnaire dépend de sa situation. Les positions administratives possibles sont les suivantes : l'activité, le détachement, la mise à disposition, la disponibilité et le congé parental. |
+| Position administrative | La position administrative du fonctionnaire dépend de sa situation. Les positions administratives possibles sont les suivantes : l'activité, le détachement, la mise à disposition, la disponibilité et le congé parental. |
 | Prolongation de stage | Du fait de congés rémunérés de toute nature excédant 1/10^ème^ de la durée de stage ou en cas de temps partiel, le stage est prolongé d'une durée correspondante. |
 | Promotion interne | La promotion interne dans un nouveau cadre d'emplois peut s’effectuer au choix ou après examen professionnel selon les conditions prévues par le cadre d'emploi. Si le candidat est choisi ou admis à l'examen, il est alors inscrit sur liste d'aptitude. Le nombre de promotion interne possible est limité selon un ratio calculé par la collectivité territoriale ou le CDG ou le CNFPT. |
 | Prorogation de stage | En cas d'insuffisance professionnelle, la prorogation permet de repousser la fin de stage et par conséquence la date de titularisation. La durée préalablement passée en stage ne sera donc pas compter dans le calcul de l'ancienneté de la carrière de l'agent. |
+| Quotité de travail | Temps de travail prévu pour l'agent rapporté par rapport au temps inscrit au tableau des effectifs. |
 | Séparation du grade et de l'emploi | Le grade appartient à l'agent et correspond à un niveau de responsabilité et de compétence de l'agent. L'emploi correspond au poste occupé par l'agent et est défini par la collectivité territoriale. |
 | Stagiaire | Un fonctionnaire territorial stagiaire est une personne qui, nommée dans un emploi permanent, accomplit les fonctions afférentes au dit emploi et à vocation à être titularisée dans le grade correspondant. |
+| Supplément familial de traitement | Traitement supplémentaire accordé à l'agent en fonction de sa situation familiale. |
 | Temps non complet | Emploi inscrit au tableau des effectifs mais dont la durée est inférieur à 35h hebdomadaire. |
 | Temps partiel | L'agent à temps partiel est celui qui choisit de réduire sa durée de travail. Ainsi le poste est inscrit au tableau des effectifs avec une certaine durée, mais la quotité de travail effectué par l'agent est inférieure à 100%. |
 | Titulaire | Les titulaires sont des agents publics fonctionnaires. |
