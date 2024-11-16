@@ -87,7 +87,7 @@ toc: false
 | --- | --- |
 | Adjoint | Fonction attribuée lors de l'installation du Conseil Municipal à certains conseillers. Les pouvoirs des adjoints exercés au nom de la commune sont liés à ceux du maire. Ils découlent soit d’une délégation de ce dernier, soit de sa suppléance. Ils sont de droit officiers de police judiciaire.|
 | Arrêté | Décision prise par le Maire en son pouvoir propre. |
-| Commune surclassée | Commune qui en raison de certaines particularités (tourisme, ville termale, etc.) se voit considéré comme une commune d'une population supérieure avec les avantages (dotations, etc.) et devoir liés (DOB/ROB, M57 complète, etc.). |
+| Commune surclassée | Commune qui en raison de certaines particularités (tourisme, ville thermale, etc.) se voit considéré comme une commune d'une population supérieure avec les avantages (dotations, etc.) et devoir liés (DOB/ROB, M57 complète, etc.). |
 | Conseil Municipal | Organe délibérant à l'échelle de la Commune |
 | Considérants | Contrairement aux visas, ils présentent les motifs de droit et de fait qui justifient la décision prise et formalisent la motivation de l’acte. |
 | Décision du Maire | Décision prise par le Maire en raison d'une délégation de compétence du Conseil Municipal. Les compétences pouvant être déléguées au Conseil Municipal sont définies par la loi et sont au nombre de 33. |
@@ -230,7 +230,7 @@ toc: false
 | Opération d'ordre | Opération comptable n'entraînant aucun flux financier. |
 | Ordonnateur | Autorité ayant la compétence d'ordonner les dépenses auprès du comptable public. Il s'agit de l'organe exécutif de la collectivité territoriale (Maire, président de la collectivité, etc.). |
 | Péréquation | Reversement d'un EPCI envers ses communes membres défavorisées en raison de la solidarité intercommunale. |
-| Provision | Les provisions correspondent à une opération d'ordre visant à prévoir une dépense exceptionnelle lorsque la collectivité est exposée à un risque avéré (contentieux, recouvrement, garantue d'eprunt).  |
+| Provision | Les provisions correspondent à une opération d'ordre visant à prévoir une dépense exceptionnelle lorsque la collectivité est exposée à un risque avéré (contentieux, recouvrement, garantie d'emprunt).  |
 | P503 | Compte d'attente recevant les recettes avant qu'elles soient ventilées. |
 | PES-ASAP | Liste des prélèvements effectués à régulariser (imputer). |
 | R001 | Solde d'exécution de la section d'investissement reporté. |
@@ -369,6 +369,8 @@ toc: false
 | ABF | Architecte des Bâtiments de France |
 | AOT(DP) | Autorisation d'occupation temporaire du domaine public |
 | CU | Certificat d'urbanisme |
+| CUa | Certificat d'urbanisme de simple information |
+| CUb | Certificat d'urbanisme opérationnel |
 | DAACT | Déclaration attestant l'achèvement et la conformité des travaux |
 | DIA | Déclaration d'intention d'aliéner |
 | DOC |  Déclaration d'ouverture de chantier |
@@ -377,6 +379,7 @@ toc: false
 | OAP | Orientations d'Aménagement et de Programmation |
 | PA | Permis d'aménager |
 | PC | Permis de construire |
+| PD | Permis de démolir |
 | PLU | Plan local d'urbanisme |
 | PLUi | Plan local d'urbanisme intercommunal |
 | PPRI | Plan de prévention des risques naturels d'inondation |
