@@ -18,7 +18,7 @@ date: 2024-10-02T07:07:07+01:00
 
 ## Procédure
 
-La convention et la déclaration sont à remplir mais n'est à signer que le jour de la célébration du PACS.
+La convention et la déclaration sont à remplir, mais n'est à signer que le jour de la célébration du PACS.
 
 Préparer le PACS sur son logiciel d'état civil (Cyan, Littera, etc.).
 

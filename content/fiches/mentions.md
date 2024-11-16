@@ -14,7 +14,7 @@ La modification d'un acte d'état civil se traduit par l'apposition d'une mentio
 
 La commune où est un acte (ex : acte de mariage) impactant un acte d'état civil qui n'est pas en sa possession (ex : acte de naissance d'une personne née dans une autre commune) fais parvenir à la mairie en possession de l'acte un avis de mention.
 
-Pour tout les avis envoyés faire 2 copies : 1 pour le récépissé et 1 pour la Mairie concernée.
+Pour tous les avis envoyés faire 2 copies : 1 pour le récépissé et 1 pour la Mairie concernée.
 
 ## Liste des mentions possibles
 
