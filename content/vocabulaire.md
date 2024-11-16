@@ -60,10 +60,13 @@ toc: false
 | DSP | Délégation de service public |
 | EPCI | Établissement public de coopération intercommunal |
 | EPT | Établissements publics territoriaux |
+| ERP | Établissement recevant du public |
 | GFP | Groupement à fiscalité propre |
 | OPH | Office public de l'habitat |
 | SDEER | Syndicat Département d'Électrification et Équipement Rural |
 | SDIS | Services départementaux d’incendie et de secours |
+| SPAC | Service public d'assainissement collectif |
+| SPANC | Service public d'assainissement non-collectif |
 | SDV | Syndicat départemental de la voirie |
 | SIVOM | Syndicat intercommunal à vocations multiples |
 | SIVOS | Syndicat intercommunal à vocation scolaire |
@@ -102,14 +105,23 @@ toc: false
 | --- | --- |
 | IGREC | Instruction Général relative à l'État Civil |
 | J21 | Loi n°2016-1547 du 18 novembre 2016 de modernisation de la justice du XXI^ème^ siècle |
+| NIR | Numéro d'immatriculation au répertoire des personnes physiques (alias numéro de sécurité sociale) |
 
 ## Vocabulaire
 
 | Nom | Définition |
 | --- | --- |
+| Acte de décès | Acte rédigé au décès de la personne. Il est rédigé par la commune où le décès a lieu. |
+| Acte de naissance | Acte rédigé à la naissance de l'enfant. Il est rédigé par la commune où la naissance a lieu. |
+| Acte de mariage | Acte rédigé au mariage des deux conjoints. Il est rédigé par la commune où le mariage a lieu. |
+| Avis de mention | Avis envoyés par une collectivité ayant procédé à la rédaction d'un acte ou de l'apposition d'une mention marginale, aux communes détentrices des actes impactés par le changement de situation. |
 | Baptême civil ou baptême républicain | Cérémonie sans effet juridique prévue sur le principe du baptême religieux. |
-| Officier d'État Civil | Personne responsable de la tenue des registres d'État Civil |
+| Feuillet de fermeture ou PV de fermeture | Feuillet clôturant un registre d'État Civil. Il répond à certaines obligations de fond et de formes. |
+| Feuillet d'ouverture ou PV d'ouverture | Feuillet ouvrant un registre d'État Civil. Il répond à certaines obligations de fond et de formes. |
+| Officier d'État Civil | Personne responsable de la tenue des registres d'État Civil. |
 | Officier d'État Civil par délégation | Élu du conseil municipal nommé par un arrêté à titre temporaire et dérogatoire ou fonctionnaire titulaire nommé par arrêté. La délégation de compétence est entière. |
+| Reconnaissance (anticipée ou non) | Acte par lequel un parent reconnaît le lien de filiation avec son enfant. |
+| Transcription de décès | Acte rédigé par la commune de domicile du défunt après transmission du certificat et de l'acte de décès par la commune du décès. |
 
 # Finances
 
@@ -234,6 +246,7 @@ toc: false
 | --- | --- |
 | Délégation de compétence ou délégation de pouvoir | Acte par lequel une autorité, le délégant, confie une partie de ses compétences à une ou plusieurs autres autorités, les délégataires. Seul les délégataires peuvent désormais exercer la compétence déléguée. La délégation est liée à une fonction et est donc non nominative. |
 | Délégation de signature | Acte par lequel le maire permet aux collaborateurs qui lui sont subordonnés de signer certains documents en ses noms, lieu et place, sous son contrôle et sa responsabilité. Il garde la compétence. La délégation est nécessairement nominative. |
+| Viser un acte | Apposer la Marianne sous l'acte, avec la fonction, le nom et le prénom de la personne compétente, ainsi que sa signature. |
 
 # Institutions
 
@@ -249,6 +262,7 @@ toc: false
 | CNFPT | Centre national de la fonction publique territoriale |
 | CNIL | Commission National Informatique et Liberté |
 | CSFPT | Conseil supérieur de la fonction publique territoriale |
+| INSEE | Institut national des statistiques et des études économiques |
 | TA | Tribunal administratif |
 | TGI | Tribunal de grande instance |
 | TI | Tribunal d'instance |
@@ -357,6 +371,7 @@ toc: false
 | CU | Certificat d'urbanisme |
 | DAACT | Déclaration attestant l'achèvement et la conformité des travaux |
 | DIA | Déclaration d'intention d'aliéner |
+| DOC |  Déclaration d'ouverture de chantier |
 | DP | Déclaration préalable |
 | DUP | Déclaration d'utilité public |
 | OAP | Orientations d'Aménagement et de Programmation |
@@ -373,3 +388,5 @@ toc: false
 | Nom | Définition |
 | --- | --- |
 | Déclaration d'ouverture | Déclaration à l'ouverture d'un chantier permettant de faire courir certains délais (par exemple passage de 3 ans à 10 ans de délai dans le cadre d'un PC). |
+| Modification du PLU | Modification limitée à certaines section du PLU. N'entraîne pas sa révision complète. |
+| Révision du PLU | Le PLU est revu dans son intégralité, le nouveau PLU vient remplacer l'ancien après son adoption. |
