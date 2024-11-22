@@ -78,6 +78,7 @@ toc: false
 
 | Abréviation | Nom complet |
 | --- | --- |
+| CAO | Commission d'appel d'offre |
 | CM | Conseil municipal |
 | CTM | Centre technique municipal |
 
@@ -116,6 +117,8 @@ toc: false
 | Acte de mariage | Acte rédigé au mariage des deux conjoints. Il est rédigé par la commune où le mariage a lieu. |
 | Avis de mention | Avis envoyés par une collectivité ayant procédé à la rédaction d'un acte ou de l'apposition d'une mention marginale, aux communes détentrices des actes impactés par le changement de situation. |
 | Baptême civil ou baptême républicain | Cérémonie sans effet juridique prévue sur le principe du baptême religieux. |
+| Comparant |  Les personnes qui comparent lors de l'établissement d'un acte d'état civil. |
+| Déclarant | Les personnes déclarant une situation relevant d'un acte d'état civil. |
 | Feuillet de fermeture ou PV de fermeture | Feuillet clôturant un registre d'État Civil. Il répond à certaines obligations de fond et de formes. |
 | Feuillet d'ouverture ou PV d'ouverture | Feuillet ouvrant un registre d'État Civil. Il répond à certaines obligations de fond et de formes. |
 | Officier d'État Civil | Personne responsable de la tenue des registres d'État Civil. |
@@ -156,6 +159,7 @@ toc: false
 | DRF | Dépense réelle de fonctionnement |
 | DRI | Dépense réelle d'investissement |
 | DSIC | Dotation de soutien à l'investissement local |
+| DSP | Délégation de service public |
 | DSR | Dotation de solidarité rurale |
 | DSU | Dotation de solidarité urbaine |
 | DTCE | Dotation pour transfert de compensation d'exonération |
@@ -273,6 +277,36 @@ toc: false
 | --- | --- |
 | Décentralisation | Transfert de compétences, originellement dévolues à l'État, vers des collectivités territoriales disposant d'une personnalité juridique propre. |
 | Déconcentration | Mode d'organisation d'un État unitaire qui consiste à implanter des autorités administratives représentant l'État dans des circonscriptions locales. Ces autorités ne disposent d'aucune personnalité juridique indépendante de l'état. |
+
+# Marché
+
+## Abréviation
+
+| Abréviation | Nom complet |
+| --- | --- |
+| AC | Acte d'engagement |
+| AO | Appel d'offre |
+| BOAMP | Bulletin officiel des annonces de marchés publics|
+| CCAG | Cahier des clauses administratives générales |
+| CCAP | Cahier des clauses administratives particulières |
+| CCP | Cahier des clauses particulières |
+| CCTP | Cahier des clauses techniques particulières |
+| DCE | Dossier de consultation des entreprises |
+| MaPA | Marché à procédure adaptée |
+| RC | Règlement de consultation |
+
+## Vocabulaire
+
+| Nom | Définition |
+| --- | --- |
+| Allotissement | Fait de découper une opération/un marché en plusieurs lots. Cela vise à favoriser la concurrence. |
+| Entité adjudicatrice | Opérateur de réseau tel qu'Enedis, GRDF, etc. À ne pas confondre avec un pouvoir adjudicateur. |
+| Lot | Subdivision d'un marché plus important. |
+| Marché unique | Lorsque un marché ne peut-être alloti, c'est un marché unique. |
+| Opérateur économique | Entité fournissant un service, des fournitures ou réalisant des travaux dans le cadre d'un marché public. Le  plus souvent il s'agit d'une entreprise, mais il peut s'agir également d'un opérateur public, d'une association, etc. |
+| Pouvoir adjudicateur | Personne morale de droit public ou de droit privé soumise au code de la commande publique. C'est ce pouvoir adjudicateur qui est à l'origine des marchés publics. Par exemple : collectivité territoriale, l'État, EPCI, etc. |
+| Saucissonage | Fait de découper artificiellement un marché afin de déroger à des procédures de passation de marché public plus contraignantes. |
+| Sourcing | Démarche par laquelle on cherche diverses informations préalablement à l'ouverture d'un marché public. Cela peut passer par des consultations ou des études de marché. |
 
 # RH
 
