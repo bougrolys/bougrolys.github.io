@@ -4,28 +4,23 @@
     <title>Listes des fiches sur l&#39;environnement territorial on Le petit manuel de la secrétaire de mairie</title>
     <link>http://localhost:1313/environnement-territorial/</link>
     <description>Recent content in Listes des fiches sur l&#39;environnement territorial on Le petit manuel de la secrétaire de mairie</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 27 Aug 2024 07:07:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/environnement-territorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Aug 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/environnement-territorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Environnement territorial suite</title>
       <link>http://localhost:1313/environnement-territorial/environnement-territorial-suite/</link>
       <pubDate>Wed, 28 Aug 2024 07:07:07 +0100</pubDate>
-      
       <guid>http://localhost:1313/environnement-territorial/environnement-territorial-suite/</guid>
-      <description> Test suite et </description>
+      <description>&lt;h1 id=&#34;test-suite-et&#34;&gt;Test suite et&lt;/h1&gt;</description>
     </item>
-    
     <item>
       <title>Présentation de l&#39;environnement territorial</title>
       <link>http://localhost:1313/environnement-territorial/presentation-environnement-territorial/</link>
       <pubDate>Tue, 27 Aug 2024 07:07:07 +0100</pubDate>
-      
       <guid>http://localhost:1313/environnement-territorial/presentation-environnement-territorial/</guid>
-      <description> Présentation de l&amp;rsquo;environnement territorial Test
-Qu&amp;rsquo;est-ce qu&amp;rsquo;une administration locale ? Une administration locale est constituée d&amp;rsquo;une assemblée délibérante d&amp;rsquo;un organe exécutif qui ont pour la responsabilité de certaines politiques sur un périmètre géographique donné. Chaque administration local a des responsabilités propres.
-Quelles sont les différentes composantes de l&amp;rsquo;environnement territorial ? Les communes Les départements Les régions Les établissements publics locaux </description>
+      <description>&lt;h1 id=&#34;présentation-de-lenvironnement-territorial&#34;&gt;Présentation de l&amp;rsquo;environnement territorial&lt;/h1&gt;&#xA;&lt;p&gt;Test&lt;/p&gt;&#xA;&lt;h2 id=&#34;quest-ce-quune-administration-locale-&#34;&gt;Qu&amp;rsquo;est-ce qu&amp;rsquo;une administration locale ?&lt;/h2&gt;&#xA;&lt;p&gt;Une administration locale est constituée d&amp;rsquo;une assemblée délibérante d&amp;rsquo;un organe exécutif qui ont pour la responsabilité de certaines politiques sur un périmètre géographique donné. Chaque administration local a des responsabilités propres.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quelles-sont-les-différentes-composantes-de-lenvironnement-territorial-&#34;&gt;Quelles sont les différentes composantes de l&amp;rsquo;environnement territorial ?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;les-communes&#34;&gt;Les communes&lt;/h3&gt;&#xA;&lt;h4 id=&#34;mode-délection&#34;&gt;Mode d&amp;rsquo;élection&lt;/h4&gt;&#xA;&lt;p&gt;Pour les communes de 1000 habitants et plus : scrutin à deux tours de listes (bloquées) à la plus forte moyenne avec une prime majoritaire.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

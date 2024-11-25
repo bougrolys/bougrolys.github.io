@@ -2,7 +2,7 @@
 title: Vocabulaire
 draft: false
 slug: vocabulaire
-date: 2024-08-28T07:07:07+01:00
+date: 2024-11-25T07:07:07+01:00
 toc: false
 ---
 
@@ -15,6 +15,7 @@ toc: false
 - [Finances](#finances)
 - [Général](#général)
 - [Institutions](#institutions) 
+- [Marché](#marché)
 - [RH](#rh)
 - [Services déconcentrés de l'État](#services-déconcentrés-de-létat)
 - [Urbanisme](#urbanisme)
@@ -175,7 +176,6 @@ toc: false
 | GVT | Glissement Vieillesse et technicité |
 | ICNE | Intérêts courus non échus |
 | IFER |Imposition forfaitaire sur les entreprises de réseaux |
-| Mapa | Marché à procédure adaptée |
 | PES | Protocole d'échange standard |
 | PPI | Plan pluriannuel d'investissement |
 | RAR | Reste à réaliser |
@@ -286,13 +286,14 @@ toc: false
 | --- | --- |
 | AC | Acte d'engagement |
 | AO | Appel d'offre |
-| BOAMP | Bulletin officiel des annonces de marchés publics|
+| BOAMP | Bulletin officiel des annonces de marchés publics |
 | CCAG | Cahier des clauses administratives générales |
 | CCAP | Cahier des clauses administratives particulières |
 | CCP | Cahier des clauses particulières |
 | CCTP | Cahier des clauses techniques particulières |
 | DCE | Dossier de consultation des entreprises |
-| MaPA | Marché à procédure adaptée |
+| MAPA | Marché à procédure adaptée |
+| OS | Ordre de service |
 | RC | Règlement de consultation |
 
 ## Vocabulaire

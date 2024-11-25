@@ -4,8 +4,7 @@
     <title>Categories on Le petit manuel de la secrétaire de mairie</title>
     <link>https://bougrolys.github.io/categories/</link>
     <description>Recent content in Categories on Le petit manuel de la secrétaire de mairie</description>
-    <generator>Hugo</generator>
-    <language>fr-fr</language>
-    <atom:link href="https://bougrolys.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://bougrolys.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

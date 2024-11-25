@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bougrolys.github.io/vocabulaire/</loc>
+    <lastmod>2024-11-25T07:07:07+01:00</lastmod>
+  </url><url>
     <loc>https://bougrolys.github.io/fiches/demande-livret-famille/</loc>
     <lastmod>2024-10-02T08:07:07+01:00</lastmod>
   </url><url>
@@ -18,9 +21,6 @@
     <lastmod>2024-08-28T07:07:07+01:00</lastmod>
   </url><url>
     <loc>https://bougrolys.github.io/ressources/</loc>
-    <lastmod>2024-08-28T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>https://bougrolys.github.io/vocabulaire/</loc>
     <lastmod>2024-08-28T07:07:07+01:00</lastmod>
   </url><url>
     <loc>https://bougrolys.github.io/fiches/</loc>
