@@ -6,7 +6,7 @@ date: 2024-11-25T07:07:07+01:00
 toc: false
 ---
 
-# Liste des thèmes
+## Liste des thèmes
 
 - [Cimetière](#cimetière)
 - [Collectivités Territoriales](#collectivités-territoriales)
@@ -20,7 +20,7 @@ toc: false
 - [Services déconcentrés de l'État](#services-déconcentrés-de-létat)
 - [Urbanisme](#urbanisme)
 
-# Cimetière
+## Cimetière
 
 | Nom | Définition |
 | --- | --- |
@@ -47,7 +47,7 @@ toc: false
 | Transport de corps avant mise en bière | Ce transport du défunt est limité à un certain nombre de situations (transport vers le domicile du décédé ou d'un proche, vers une chambre funéraire, vers une chambre mortuaire, dans le cadre d'un don de corps et pour une autopsie) et est encadré selon le motif du transport. |
 | Vide sanitaire | Dans une sépulture, le vide sanitaire est l'espace laissé libre entre la surface du sol et le premier cercueil. De même des espaces inter-tombes sont prévus. |
 
-# Collectivités Territoriales
+## Collectivités Territoriales
 
 | Abréviation | Nom complet |
 | --- | --- |
@@ -73,9 +73,9 @@ toc: false
 | SIVOS | Syndicat intercommunal à vocation scolaire |
 | SIVU | Syndicat intercommunal à vocation unique |
 
-# Conseil Municipal et bloc communal
+## Conseil Municipal et bloc communal
 
-## Abréviation
+### Abréviation
 
 | Abréviation | Nom complet |
 | --- | --- |
@@ -83,7 +83,7 @@ toc: false
 | CM | Conseil municipal |
 | CTM | Centre technique municipal |
 
-## Vocabulaire
+### Vocabulaire
 
 | Nom | Définition |
 | --- | --- |
@@ -99,9 +99,9 @@ toc: false
 | Mandat ou Pouvoir | Un conseiller municipal empêché d'assister à une séance peut donner à un collègue de son choix pouvoir écrit de voter en son nom. Article L2121-20 du CGCT. |
 | Visa | Les visas ont pour but d'informer le destinataire de l'acte des textes, avis, consultations au vu desquelles la décision a été prise. |
 
-# État-Civil
+## État-Civil
 
-## Abréviations
+### Abréviations
 
 | Abréviation(s) | Nom complet |
 | --- | --- |
@@ -109,7 +109,7 @@ toc: false
 | J21 | Loi n°2016-1547 du 18 novembre 2016 de modernisation de la justice du XXI^ème^ siècle |
 | NIR | Numéro d'immatriculation au répertoire des personnes physiques (alias numéro de sécurité sociale) |
 
-## Vocabulaire
+### Vocabulaire
 
 | Nom | Définition |
 | --- | --- |
@@ -127,9 +127,9 @@ toc: false
 | Reconnaissance (anticipée ou non) | Acte par lequel un parent reconnaît le lien de filiation avec son enfant. |
 | Transcription de décès | Acte rédigé par la commune de domicile du défunt après transmission du certificat et de l'acte de décès par la commune du décès. |
 
-# Finances
+## Finances
 
-## Abréviations
+### Abréviations
 
 | Abréviation(s) | Nom complet |
 | --- | --- |
@@ -193,7 +193,7 @@ toc: false
 | TLE | Taxe locale d'équipement |
 | TP | Taxe professionnelle |
 
-## Vocabulaire
+### Vocabulaire
 
 | Nom | Définition |
 | --- | --- |
@@ -244,7 +244,7 @@ toc: false
 | Titre (de recette) | Équivalent du mandat pour les recettes de la collectivité. |
 | Ventiler | Fait de réaliser les imputations. |
 
-# Général
+## Général
 
 | Nom | Définition |
 | --- | --- |
@@ -252,9 +252,9 @@ toc: false
 | Délégation de signature | Acte par lequel le maire permet aux collaborateurs qui lui sont subordonnés de signer certains documents en ses noms, lieu et place, sous son contrôle et sa responsabilité. Il garde la compétence. La délégation est nécessairement nominative. |
 | Viser un acte | Apposer la Marianne sous l'acte, avec la fonction, le nom et le prénom de la personne compétente, ainsi que sa signature. |
 
-# Institutions
+## Institutions
 
-## Abréviations
+### Abréviations
 
 | Abréviation | Nom complet |
 | --- | --- |
@@ -271,16 +271,16 @@ toc: false
 | TGI | Tribunal de grande instance |
 | TI | Tribunal d'instance |
 
-## Vocabulaire
+### Vocabulaire
 
 | Nom | Définition |
 | --- | --- |
 | Décentralisation | Transfert de compétences, originellement dévolues à l'État, vers des collectivités territoriales disposant d'une personnalité juridique propre. |
 | Déconcentration | Mode d'organisation d'un État unitaire qui consiste à implanter des autorités administratives représentant l'État dans des circonscriptions locales. Ces autorités ne disposent d'aucune personnalité juridique indépendante de l'état. |
 
-# Marché
+## Marché
 
-## Abréviation
+### Abréviation
 
 | Abréviation | Nom complet |
 | --- | --- |
@@ -296,7 +296,7 @@ toc: false
 | OS | Ordre de service |
 | RC | Règlement de consultation |
 
-## Vocabulaire
+### Vocabulaire
 
 | Nom | Définition |
 | --- | --- |
@@ -309,9 +309,9 @@ toc: false
 | Saucissonage | Fait de découper artificiellement un marché afin de déroger à des procédures de passation de marché public plus contraignantes. |
 | Sourcing | Démarche par laquelle on cherche diverses informations préalablement à l'ouverture d'un marché public. Cela peut passer par des consultations ou des études de marché. |
 
-# RH
+## RH
 
-## Abréviation
+### Abréviation
 
 | Abréviation | Nom complet |
 | --- | --- |
@@ -333,7 +333,7 @@ toc: false
 | TC | Temps complet |
 | TNC | Temps non complet |
 
-## Vocabulaire
+### Vocabulaire
 
 | Nom | Définition |
 | --- | --- |
@@ -384,7 +384,7 @@ toc: false
 | Traitement (indiciaire) | Nom de la partie fixe de la rémunération perçue par l'agent de la fonction publique. |
 | Vacataire | Le vacataire n'est pas recruté sur un emploi. Il est recruté pour accomplir une tâche précise et ponctuelle. Il est rémunéré à la tâche. |
 
-# Services déconcentrés de l'État
+## Services déconcentrés de l'État
 
 | Abréviation | Nom complet |
 | --- | --- |
@@ -395,9 +395,9 @@ toc: false
 | SCAD | Service de coordination de l'action départementale |
 | DTH | Direction des territoires et de l'habitat |
 
-# Urbanisme
+## Urbanisme
 
-## Abréviations
+### Abréviations
 
 | Abréviation | Nom complet |
 | --- | --- |
@@ -421,7 +421,7 @@ toc: false
 | PPRN | Plan de prévention des risques naturels |
 | SCoT | Schéma de cohérence territorial |
 
-## Vocabulaire
+### Vocabulaire
 
 | Nom | Définition |
 | --- | --- |

@@ -13,7 +13,7 @@
       <pubDate>Mon, 25 Nov 2024 07:07:07 +0100</pubDate>
       
       <guid>https://bougrolys.github.io/vocabulaire/</guid>
-      <description>&lt;h1 id=&#34;liste-des-thèmes&#34; class=&#34;header-anchor-wrapper&#34;&gt;Liste des thèmes
+      <description>&lt;h2 id=&#34;liste-des-thèmes&#34; class=&#34;header-anchor-wrapper&#34;&gt;Liste des thèmes
   &lt;a href=&#34;#liste-des-th%c3%a8mes&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -26,7 +26,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#cimeti%C3%A8re&#34;&gt;Cimetière&lt;/a&gt;&lt;/li&gt;
@@ -42,7 +42,7 @@
 &lt;li&gt;&lt;a href=&#34;#urbanisme&#34;&gt;Urbanisme&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;cimetière&#34; class=&#34;header-anchor-wrapper&#34;&gt;Cimetière
+&lt;h2 id=&#34;cimetière&#34; class=&#34;header-anchor-wrapper&#34;&gt;Cimetière
   &lt;a href=&#34;#cimeti%c3%a8re&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -55,7 +55,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -156,7 +156,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;collectivités-territoriales&#34; class=&#34;header-anchor-wrapper&#34;&gt;Collectivités Territoriales
+&lt;h2 id=&#34;collectivités-territoriales&#34; class=&#34;header-anchor-wrapper&#34;&gt;Collectivités Territoriales
   &lt;a href=&#34;#collectivit%c3%a9s-territoriales&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -169,7 +169,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -266,7 +266,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;conseil-municipal-et-bloc-communal&#34; class=&#34;header-anchor-wrapper&#34;&gt;Conseil Municipal et bloc communal
+&lt;h2 id=&#34;conseil-municipal-et-bloc-communal&#34; class=&#34;header-anchor-wrapper&#34;&gt;Conseil Municipal et bloc communal
   &lt;a href=&#34;#conseil-municipal-et-bloc-communal&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -279,10 +279,10 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
 
 
-&lt;h2 id=&#34;abréviation&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviation
+&lt;h3 id=&#34;abréviation&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviation
   &lt;a href=&#34;#abr%c3%a9viation&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -295,7 +295,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -320,7 +320,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;vocabulaire&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
+&lt;h3 id=&#34;vocabulaire&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
   &lt;a href=&#34;#vocabulaire&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -333,7 +333,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -390,7 +390,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;état-civil&#34; class=&#34;header-anchor-wrapper&#34;&gt;État-Civil
+&lt;h2 id=&#34;état-civil&#34; class=&#34;header-anchor-wrapper&#34;&gt;État-Civil
   &lt;a href=&#34;#%c3%a9tat-civil&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -403,10 +403,10 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
 
 
-&lt;h2 id=&#34;abréviations&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
+&lt;h3 id=&#34;abréviations&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
   &lt;a href=&#34;#abr%c3%a9viations&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -419,7 +419,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -444,7 +444,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;vocabulaire-1&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
+&lt;h3 id=&#34;vocabulaire-1&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
   &lt;a href=&#34;#vocabulaire-1&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -457,7 +457,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -522,7 +522,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;finances&#34; class=&#34;header-anchor-wrapper&#34;&gt;Finances
+&lt;h2 id=&#34;finances&#34; class=&#34;header-anchor-wrapper&#34;&gt;Finances
   &lt;a href=&#34;#finances&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -535,10 +535,10 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
 
 
-&lt;h2 id=&#34;abréviations-1&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
+&lt;h3 id=&#34;abréviations-1&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
   &lt;a href=&#34;#abr%c3%a9viations-1&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -551,7 +551,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -800,7 +800,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;vocabulaire-2&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
+&lt;h3 id=&#34;vocabulaire-2&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
   &lt;a href=&#34;#vocabulaire-2&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -813,7 +813,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1010,7 +1010,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;général&#34; class=&#34;header-anchor-wrapper&#34;&gt;Général
+&lt;h2 id=&#34;général&#34; class=&#34;header-anchor-wrapper&#34;&gt;Général
   &lt;a href=&#34;#g%c3%a9n%c3%a9ral&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1023,7 +1023,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1048,7 +1048,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;institutions&#34; class=&#34;header-anchor-wrapper&#34;&gt;Institutions
+&lt;h2 id=&#34;institutions&#34; class=&#34;header-anchor-wrapper&#34;&gt;Institutions
   &lt;a href=&#34;#institutions&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1061,10 +1061,10 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
 
 
-&lt;h2 id=&#34;abréviations-2&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
+&lt;h3 id=&#34;abréviations-2&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
   &lt;a href=&#34;#abr%c3%a9viations-2&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1077,7 +1077,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1138,7 +1138,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;vocabulaire-3&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
+&lt;h3 id=&#34;vocabulaire-3&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
   &lt;a href=&#34;#vocabulaire-3&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1151,7 +1151,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1172,7 +1172,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;marché&#34; class=&#34;header-anchor-wrapper&#34;&gt;Marché
+&lt;h2 id=&#34;marché&#34; class=&#34;header-anchor-wrapper&#34;&gt;Marché
   &lt;a href=&#34;#march%c3%a9&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1185,10 +1185,10 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
 
 
-&lt;h2 id=&#34;abréviation-1&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviation
+&lt;h3 id=&#34;abréviation-1&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviation
   &lt;a href=&#34;#abr%c3%a9viation-1&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1201,7 +1201,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1258,7 +1258,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;vocabulaire-4&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
+&lt;h3 id=&#34;vocabulaire-4&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
   &lt;a href=&#34;#vocabulaire-4&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1271,7 +1271,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1316,7 +1316,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;rh&#34; class=&#34;header-anchor-wrapper&#34;&gt;RH
+&lt;h2 id=&#34;rh&#34; class=&#34;header-anchor-wrapper&#34;&gt;RH
   &lt;a href=&#34;#rh&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1329,10 +1329,10 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
 
 
-&lt;h2 id=&#34;abréviation-2&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviation
+&lt;h3 id=&#34;abréviation-2&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviation
   &lt;a href=&#34;#abr%c3%a9viation-2&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1345,7 +1345,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1426,7 +1426,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;vocabulaire-5&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
+&lt;h3 id=&#34;vocabulaire-5&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
   &lt;a href=&#34;#vocabulaire-5&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1439,7 +1439,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1636,7 +1636,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;services-déconcentrés-de-létat&#34; class=&#34;header-anchor-wrapper&#34;&gt;Services déconcentrés de l&amp;rsquo;État
+&lt;h2 id=&#34;services-déconcentrés-de-létat&#34; class=&#34;header-anchor-wrapper&#34;&gt;Services déconcentrés de l&amp;rsquo;État
   &lt;a href=&#34;#services-d%c3%a9concentr%c3%a9s-de-l%c3%a9tat&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1649,7 +1649,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1686,7 +1686,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;urbanisme&#34; class=&#34;header-anchor-wrapper&#34;&gt;Urbanisme
+&lt;h2 id=&#34;urbanisme&#34; class=&#34;header-anchor-wrapper&#34;&gt;Urbanisme
   &lt;a href=&#34;#urbanisme&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1699,10 +1699,10 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h1&gt;
+&lt;/h2&gt;
 
 
-&lt;h2 id=&#34;abréviations-3&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
+&lt;h3 id=&#34;abréviations-3&#34; class=&#34;header-anchor-wrapper&#34;&gt;Abréviations
   &lt;a href=&#34;#abr%c3%a9viations-3&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1715,7 +1715,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1804,7 +1804,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;vocabulaire-6&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
+&lt;h3 id=&#34;vocabulaire-6&#34; class=&#34;header-anchor-wrapper&#34;&gt;Vocabulaire
   &lt;a href=&#34;#vocabulaire-6&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
 &lt;svg
@@ -1817,7 +1817,7 @@
 
 &lt;/svg&gt;
   &lt;/a&gt;
-&lt;/h2&gt;
+&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
