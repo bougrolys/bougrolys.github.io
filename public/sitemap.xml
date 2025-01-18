@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bougrolys.github.io/vocabulaire/</loc>
+    <loc>http://localhost:1313/vocabulaire/</loc>
     <lastmod>2024-11-25T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://bougrolys.github.io/fiches/demande-livret-famille/</loc>
+    <loc>http://localhost:1313/fiches/demande-livret-famille/</loc>
     <lastmod>2024-10-02T08:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://bougrolys.github.io/fiches/pacs/</loc>
+    <loc>http://localhost:1313/fiches/pacs/</loc>
     <lastmod>2024-10-02T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://bougrolys.github.io/fiches/mentions/</loc>
+    <loc>http://localhost:1313/fiches/mentions/</loc>
     <lastmod>2024-10-01T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://bougrolys.github.io/fiches/mariage/</loc>
+    <loc>http://localhost:1313/fiches/mariage/</loc>
     <lastmod>2024-09-30T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://bougrolys.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-28T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://bougrolys.github.io/ressources/</loc>
+    <loc>http://localhost:1313/ressources/</loc>
     <lastmod>2024-08-28T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://bougrolys.github.io/fiches/</loc>
+    <loc>http://localhost:1313/fiches/</loc>
     <lastmod>2024-08-27T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://bougrolys.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://bougrolys.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

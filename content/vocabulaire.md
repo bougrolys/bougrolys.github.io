@@ -133,7 +133,7 @@ toc: false
 
 | Abréviation(s) | Nom complet |
 | --- | --- |
-| AE | Autorisation dd'engagement |
+| AE | Autorisation d'engagement |
 | AP | Autorisation de paiement |
 | ASAP | Avis des sommes à payer |
 | BP | Budget primitif ou prévisionnel |

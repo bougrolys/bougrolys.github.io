@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Le petit manuel de la secrétaire de mairie</title>
-    <link>https://bougrolys.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in index on Le petit manuel de la secrétaire de mairie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 28 Aug 2024 07:07:07 +0100</lastBuildDate><atom:link href="https://bougrolys.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Aug 2024 07:07:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vocabulaire</title>
-      <link>https://bougrolys.github.io/vocabulaire/</link>
+      <link>http://localhost:1313/vocabulaire/</link>
       <pubDate>Mon, 25 Nov 2024 07:07:07 +0100</pubDate>
       
-      <guid>https://bougrolys.github.io/vocabulaire/</guid>
+      <guid>http://localhost:1313/vocabulaire/</guid>
       <description>&lt;h2 id=&#34;liste-des-thèmes&#34; class=&#34;header-anchor-wrapper&#34;&gt;Liste des thèmes
   &lt;a href=&#34;#liste-des-th%c3%a8mes&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
@@ -563,7 +563,7 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td&gt;AE&lt;/td&gt;
-          &lt;td&gt;Autorisation dd&amp;rsquo;engagement&lt;/td&gt;
+          &lt;td&gt;Autorisation d&amp;rsquo;engagement&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;AP&lt;/td&gt;
@@ -1845,10 +1845,10 @@
     
     <item>
       <title>Fiche pratique : Demande de Livret de Famille</title>
-      <link>https://bougrolys.github.io/fiches/demande-livret-famille/</link>
+      <link>http://localhost:1313/fiches/demande-livret-famille/</link>
       <pubDate>Wed, 02 Oct 2024 08:07:07 +0100</pubDate>
       
-      <guid>https://bougrolys.github.io/fiches/demande-livret-famille/</guid>
+      <guid>http://localhost:1313/fiches/demande-livret-famille/</guid>
       <description>&lt;h1 id=&#34;demande-de-livret-de-famille&#34; class=&#34;header-anchor-wrapper&#34;&gt;Demande de livret de famille
   &lt;a href=&#34;#demande-de-livret-de-famille&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
@@ -1886,10 +1886,10 @@
     
     <item>
       <title>Fiche pratique : PACS</title>
-      <link>https://bougrolys.github.io/fiches/pacs/</link>
+      <link>http://localhost:1313/fiches/pacs/</link>
       <pubDate>Wed, 02 Oct 2024 07:07:07 +0100</pubDate>
       
-      <guid>https://bougrolys.github.io/fiches/pacs/</guid>
+      <guid>http://localhost:1313/fiches/pacs/</guid>
       <description>&lt;h1 id=&#34;le-pacs&#34; class=&#34;header-anchor-wrapper&#34;&gt;Le PACS
   &lt;a href=&#34;#le-pacs&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
@@ -1949,10 +1949,10 @@
     
     <item>
       <title>Fiche pratique : Mentions</title>
-      <link>https://bougrolys.github.io/fiches/mentions/</link>
+      <link>http://localhost:1313/fiches/mentions/</link>
       <pubDate>Tue, 01 Oct 2024 07:07:07 +0100</pubDate>
       
-      <guid>https://bougrolys.github.io/fiches/mentions/</guid>
+      <guid>http://localhost:1313/fiches/mentions/</guid>
       <description>&lt;h1 id=&#34;les-mentions&#34; class=&#34;header-anchor-wrapper&#34;&gt;Les Mentions
   &lt;a href=&#34;#les-mentions&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
@@ -1990,10 +1990,10 @@
     
     <item>
       <title>Fiche pratique : Mariage</title>
-      <link>https://bougrolys.github.io/fiches/mariage/</link>
+      <link>http://localhost:1313/fiches/mariage/</link>
       <pubDate>Mon, 30 Sep 2024 07:07:07 +0100</pubDate>
       
-      <guid>https://bougrolys.github.io/fiches/mariage/</guid>
+      <guid>http://localhost:1313/fiches/mariage/</guid>
       <description>&lt;h1 id=&#34;le-mariage&#34; class=&#34;header-anchor-wrapper&#34;&gt;Le mariage
   &lt;a href=&#34;#le-mariage&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
@@ -2078,10 +2078,10 @@
     
     <item>
       <title>Ressources</title>
-      <link>https://bougrolys.github.io/ressources/</link>
+      <link>http://localhost:1313/ressources/</link>
       <pubDate>Wed, 28 Aug 2024 07:07:07 +0100</pubDate>
       
-      <guid>https://bougrolys.github.io/ressources/</guid>
+      <guid>http://localhost:1313/ressources/</guid>
       <description>&lt;h1 id=&#34;liste-des-ressources&#34; class=&#34;header-anchor-wrapper&#34;&gt;Liste des ressources
   &lt;a href=&#34;#liste-des-ressources&#34; class=&#34;header-anchor-link&#34;&gt;
     &lt;svg width=&#34;16px&#34; height=&#34;16px&#34; viewBox=&#34;0 0 24 24&#34;&gt;
